@@ -10,3 +10,5 @@
 	publisher = {ACL},
 	title = {Kola Saami Christian Text Corpus},
 	year = {2024}}
+
+ [Bibliography](bibliography.bib)
