@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified"
+    DATE="2024-11-29T18:16:14+02:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3eec0cc0-0b1b-4e90-a3b2-f81ccd2c7fb1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">394</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="AAA1932f" TIER_ID="ref@AAA1932f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 4</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>sjd20220300LordsPrayer 6</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="orth(orig)@AAA1932f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>АДЖЬ МӢН</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Аджь мӣн, е̄ллей альмэсьт! Анҍ пассьювв нэ̄мм То̄н;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Я пуадт Цоа̄ррвудт То̄н; Я пуадт ва̄ллт То̄н, э е̄ммьне альн, ко̄ххт альмэсьт;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Ле̄йп мӣн та̄ррьмъенч анҍт мыйе та̄нн пя̄ййва;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Я лӯшьт мӣн вӣлькэтҍ, Ко̄ххт э мыйй лӯшштлэпь вя̄ллктуввъетҍ мӣн;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Я ель лӯшьт мӣнэтҍ кӣххчлэм гуэйкэ, ноа пе̄сьт мӣнэтҍ луйхкэсьт. Го То̄н лӣ Цоа̄ррвудт я вӣгк, я цысст агас. Аминь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@AAA1932f" PARTICIPANT="AAA" TIER_ID="orth(ksdp)@AAA">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Äʹǯǯ miin</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Äʹǯǯ miin, kuu leax alʹmest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Da puadd toon caarstva.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Anʹt mõjje tann peajvas taan lejb, kuu mijje bɨdt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Ja kuuʹd miin vielʹget, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
+        PARENT_REF="ref@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="orth@AAA1932f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Аджь мӣн</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Аджь мӣн, е̄ллей альмэсьт! Анҍ пассьювв нэ̄мм То̄н;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Я пуадт Цоа̄ррвудт То̄н; Я пуадт ва̄ллт То̄н, э е̄ммне альн, ко̄ххт альмэсьт;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Ле̄йп мӣн та̄ррьмъеньч анҍт мыйе та̄нн пя̄ййва;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Я лӯшьт мӣн вӣлькэтҍ, Ко̄ххт э мыйй лӯшштлэпь вя̄ллктуввъетҍ мӣн;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Я ель лӯшьт мӣнэтҍ кӣһчлэм гуэйкэ, ноа пе̄сьт мӣнэтҍ луҋкэсьт. Го То̄н лӣ Цоа̄ррвудт я вӣгк, я цысст агас. Аминҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="rus" LINGUISTIC_TYPE_REF="ft-rus(orig)T"
+        PARENT_REF="orth@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="ft-rus(orig)@AAA1932f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>Отче наш</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Отче наш, сущий на небесах. Да святится имя Твое</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>да приидет Царствие Твое да будет воля Твоя и на земле как и на небе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>хлеб наш насущный дай нам на сей день,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>и прости нам долги наши как и мы прощаем должникам нашим,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>и не введи нас в искушение но избавь нас от лукавого. Ибо Твое есть Царство и сила и слава во веки. Аминь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="eng" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="orth@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="ft-eng@AAA1932f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>Lord's Prayer</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Our Father in heaven, hallowed be your name,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>your kingdom come, your will be done, on earth as in heaven.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Give us today our daily bread.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Forgive us our sins as we forgive those who sin against us.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>Lead us not into temptation but deliver us from evil. For the kingdom, the power, and the glory are yours now and for ever. Amen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@AAA1932f"
+        PARTICIPANT="AAA1932f" TIER_ID="ref(orig)@AAA1932f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a391" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>10</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>11</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>12</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a394" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>13</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orth(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="wordT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-rus(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref(orig)T" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00137447-001"
+        LANG_ID="sjd" LANG_LABEL="Kildin Sami (sjd)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00138600-001"
+        LANG_ID="rus" LANG_LABEL="Russian (rus)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00138502-001"
+        LANG_ID="eng" LANG_LABEL="English (eng)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
