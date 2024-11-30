@@ -19,11 +19,19 @@ If you use these data, please cite my paper.
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
 
-| Session                             | Description     | Tokens | Status   |
-| ----------------------------------- | --------------- | -----: | -------- |
-| sjd20220300_bibleAPOSTLES2022a      | Apostles' Creed | 71     | finished |
-| sjd20220300_bibleLORDMATTH2022a     | Lord's Prayer   | 60     | finished |
-| sjd20220300_scheller2022a           | Preface         | 559    | finished |
+| Session                             | Description     | Tokens | Status   | Use  |
+| ----------------------------------- | --------------- | -----: | -------- | ---- |
+| sjd20220300_bibleAPOSTLES2022a      | Apostles' Creed | 71     | finished | (c)  |
+| sjd20220300_bibleLORDMATTH2022a     | Lord's Prayer   | 60     | finished | (c)  |
+| sjd20220300_scheller2022a           | Preface         | 559    | finished | (c)  |
+|                                     |                 |        | planned  | acad |
+|                                     |                 |        | planned  | free |
+
+Data marked as "(c)" is under copyright and must not be re-published or shared in any way outside the project described here. It can, however, be analysed by project collaborators.
+
+Data marked as "acad" is also under copyright but can be used under an academic license via the Language Bank of Finland.
+
+"Free" data is in the Open Domain. 
 
 
 ## TODO
