@@ -1,6 +1,8 @@
 # Kola Saami Christian Text Corpus (KSCTC)
 
-The following paper includes a more complete description of this corpus.
+The main author of the dataset and administrator of this project is Michael Rießler.
+
+The following paper includes a more complete description.
 
 ```
 @incollection{riesler2024a,
@@ -13,7 +15,10 @@ The following paper includes a more complete description of this corpus.
 	year = {2024}}
 ```
 
-If you use these data, please cite my paper.
+If you use the data, please cite my paper.
+
+## Code of conduct
+
 
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
@@ -21,10 +26,12 @@ The following table provides an overview of the included data and the state of t
 | Session                                 | Description     | Tokens | Status   | Use    |
 | --------------------------------------- | --------------- | -----: | -------- | ------ |
 | sjd19960000_arapovic1996a-00Content     | Imprint         | 152    | finished | open   | 
-| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | open   | 
+| sjd19960000_arapovic1996a-00Front       | Imprint         | 3      | finished | open   | 
+| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | fair   | 
+| sjd19960000_arapovic1996a-00Title       | Imprint         | 13     | finished | open   | 
 | sjd20220300_bibleAPOSTLES2022a          | Apostles' Creed | 71     | finished | fair   |
 | sjd20220300_bibleLORDMATTH2022a         | Lord's Prayer   | 60     | finished | fair   |
-| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | open   | 
+| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | fair   | 
 | sjd20220300_bibleMATTHEW2022a-00Title   | Imprint         | 10     | finished | open   | 
 | sjd20220300_scheller2022a               | Preface         | 559    | finished | closed |
 |                                         |                 |        | planned  | acad   |
@@ -44,8 +51,8 @@ The following table provides an overview of the included data and the state of t
 
 ### Use
 - Data marked as "closed" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
-- Data marked as "fair" are technically under copyright. But the nature of these texts …
-- Data marked as "acad" are also under copyright but can be used under an academic license via the Language Bank of Finland.
+- Data marked as "acad" are under copyright but can be used under an academic license via the Language Bank of Finland.
+- Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer) or the fact that they have already been widely distributed in print makes allows their use as open corpus data, in our opinion.
 - Data marked as "open" are either in the Open Domain (old publications) or do not meet the threshold of originality (title pages, etc.).
 
 
@@ -62,5 +69,3 @@ The following table provides an overview of the included data and the state of t
 - submodule
 - validation scripts
 - dynamic corpus statistics
-
-
