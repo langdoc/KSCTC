@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # Kola Saami Christian Text Corpus (KSCTC)
 
 The following paper includes a more complete description of this corpus.
@@ -14,8 +16,6 @@ The following paper includes a more complete description of this corpus.
 ```
 
 If you use these data, please cite my paper.
-
-[[_TOC_]]
 
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
