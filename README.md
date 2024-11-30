@@ -27,11 +27,22 @@ The following table provides an overview of the included data and the state of t
 |                                     |                 |        | planned  | acad |
 |                                     |                 |        | planned  | free |
 
-Data marked as "(c)" is under copyright and must not be re-published or shared in any way outside the project described here. It can, however, be analysed by project collaborators.
+### Session
+- Points to the file name
 
-Data marked as "acad" is also under copyright but can be used under an academic license via the Language Bank of Finland.
+### Description
+- See more metadata in the respective CMDI files
 
-"Free" data is in the Open Domain. 
+### Tokens
+- Simple count for an overview
+
+### Status
+- Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
+
+### Use
+- Data marked as "(c)" is under copyright and must not be re-published or shared in any way outside the project described here. It can, however, be analysed by project collaborators.
+- Data marked as "acad" is also under copyright but can be used under an academic license via the Language Bank of Finland.
+- "Free" data is in the Open Domain. 
 
 
 ## TODO
