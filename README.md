@@ -18,13 +18,17 @@ If you use these data, please cite my paper.
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
 
-| Session                             | Description     | Tokens | Status   | Use  |
-| ----------------------------------- | --------------- | -----: | -------- | ---- |
-| sjd20220300_bibleAPOSTLES2022a      | Apostles' Creed | 71     | finished | (c)  |
-| sjd20220300_bibleLORDMATTH2022a     | Lord's Prayer   | 60     | finished | (c)  |
-| sjd20220300_scheller2022a           | Preface         | 559    | finished | (c)  |
-|                                     |                 |        | planned  | acad |
-|                                     |                 |        | planned  | free |
+| Session                                 | Description     | Tokens | Status   | Use    |
+| --------------------------------------- | --------------- | -----: | -------- | ------ |
+| sjd19960000_arapovic1996a-00Content     | Imprint         | 152    | finished | open   | 
+| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | open   | 
+| sjd20220300_bibleAPOSTLES2022a          | Apostles' Creed | 71     | finished | fair   |
+| sjd20220300_bibleLORDMATTH2022a         | Lord's Prayer   | 60     | finished | fair   |
+| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | open   | 
+| sjd20220300_bibleMATTHEW2022a-00Title   | Imprint         | 10     | finished | open   | 
+| sjd20220300_scheller2022a               | Preface         | 559    | finished | closed |
+|                                         |                 |        | planned  | acad   |
+
 
 ### Session
 - Points to the file name
@@ -39,9 +43,10 @@ The following table provides an overview of the included data and the state of t
 - Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
 
 ### Use
-- Data marked as "(c)" is under copyright and must not be re-published or shared in any way outside the project described here. It can, however, be analysed by project collaborators.
-- Data marked as "acad" is also under copyright but can be used under an academic license via the Language Bank of Finland.
-- "Free" data is in the Open Domain. 
+- Data marked as "closed" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
+- Data marked as "fair" are technically under copyright. But the nature of these texts …
+- Data marked as "acad" are also under copyright but can be used under an academic license via the Language Bank of Finland.
+- Data marked as "open" are either in the Open Domain (old publications) or do not meet the threshold of originality (title pages, etc.).
 
 
 ## TODO
