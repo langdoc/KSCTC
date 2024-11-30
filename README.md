@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Kola Saami Christian Text Corpus (KSCTC)
 
 The following paper includes a more complete description of this corpus.
