@@ -18,7 +18,7 @@ The following paper includes a more complete description.
 If you use the data, please cite my paper.
 
 ## Code of conduct
-
+…to be added…
 
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
