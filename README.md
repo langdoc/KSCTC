@@ -75,3 +75,4 @@ Planned improvements
 - submodule
 - validation scripts
 - dynamic corpus statistics
+- metadata links to Wikidata
