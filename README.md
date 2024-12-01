@@ -18,10 +18,15 @@ The following paper includes a more complete description.
 If you use the data, please cite my paper.
 
 ## Code of conduct
-…to be added…
+…to be added in the file [Code of Conduct](CoC.md)…
+
+
+## Metadata
+Currently, only basic metadata is included; see the overview below. More detailed metadata is planned to be published (in CMDI format) later.
+
 
 ## Simple corpus statistics
-The following table provides an overview of the included data and the state of their completion.
+The following table provides an overview of the included data and the state of their completion. Basic metadata can also be extracted.
 
 | Session                                 | Description     | Tokens | Status   | Use  |
 | --------------------------------------- | --------------- | -----: | -------- | ---- |
@@ -43,13 +48,16 @@ The following table provides an overview of the included data and the state of t
 
 ### Session
 - Points to the file name
-- The language is indicated (as ISO) in the first three letter of the file name
+	- The language is indicated (as ISO) in the first three letters of the file name.
+ 	- The second section of the file name indicates the data of origin, at least the year. 
+ 	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
+  	- The fourth section (if applicable, after hyphen) is for sub sets. 	 
 
 ### Description
-- See more metadata in the respective CMDI files
+- See more metadata in the respective CMDI files (work in progress).
 
 ### Tokens
-- Simple count for an overview
+- Simple token count
 
 ### Status
 - Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
@@ -62,14 +70,7 @@ The following table provides an overview of the included data and the state of t
 
 
 ## TODO
-
-- [Code of Conduct](CoC.md)
-- [Bibliography](bibliography.bib)
-- CMDI
-
-
-## Planned improvements
-
+Planned improvements
 - Website
 - submodule
 - validation scripts
