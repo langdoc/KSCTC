@@ -23,22 +23,27 @@ If you use the data, please cite my paper.
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
 
-| Session                                 | Description     | Tokens | Status   | Use    |
-| --------------------------------------- | --------------- | -----: | -------- | ------ |
-| sjd19960000_arapovic1996a-00Content     | Imprint         | 152    | finished | open   | 
-| sjd19960000_arapovic1996a-00Front       | Imprint         | 3      | finished | open   | 
-| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | fair   | 
-| sjd19960000_arapovic1996a-00Title       | Imprint         | 13     | finished | open   | 
-| sjd20220300_bibleAPOSTLES2022a          | Apostles' Creed | 71     | finished | fair   |
-| sjd20220300_bibleLORDMATTH2022a         | Lord's Prayer   | 60     | finished | fair   |
-| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | fair   | 
-| sjd20220300_bibleMATTHEW2022a-00Title   | Imprint         | 10     | finished | open   | 
-| sjd20220300_scheller2022a               | Preface         | 559    | finished | closed |
-|                                         |                 |        | planned  | acad   |
-
+| Session                                 | Description     | Tokens | Status   | Use  |
+| --------------------------------------- | --------------- | -----: | -------- | ---- |
+| sjd19960000_arapovic1996a-00Content     | Imprint         | 152    | finished | open | 
+| sjd19960000_arapovic1996a-00Front       | Imprint         | 3      | finished | open | 
+| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | open | 
+| sjd19960000_arapovic1996a-00Title       | Imprint         | 13     | finished | open |
+| sjd20080000_ermolaeva2010a-00Title      | Imprint         | 5      | finished | open |
+| sjd20080000_ermolaeva2010a-01           | Matthew 1       | 322    | finished | fair | 
+| sjd20220300_bibleAPOSTLES2022a          | Apostles' Creed | 71     | finished | fair |
+| sjd20220300_bibleLORDMATTH2022a         | Lord's Prayer   | 60     | finished | fair |
+| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | open | 
+| sjd20220300_bibleMATTHEW2022a-00Title   | Imprint         | 10     | finished | open | 
+| sjd20220300_scheller2022a               | Preface         | 559    | finished | clos |
+|                                         |                 |        | planned  | acad |
+|                                         | Matthew 1       |        |          | clos |
+|                                         | Matthew 1       |        |          | open |
+|                                         | Matthew 1       |        |          | open |
 
 ### Session
 - Points to the file name
+- The language is indicated (as ISO) in the first three letter of the file name
 
 ### Description
 - See more metadata in the respective CMDI files
