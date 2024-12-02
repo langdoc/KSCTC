@@ -28,30 +28,43 @@ Currently, only basic metadata is included; see the overview below. More detaile
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion. Basic metadata can also be extracted.
 
-| Session                                   | Description     | Tokens | Status   | Use    |
-| ----------------------------------------- | --------------- | -----: | -------- | ----   |
-| sjd18760800_bibleMATTHEW1878a-00Title     | Imprint         | 2      | finished | open   |
-| sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint         | 19     | finished | open   |
-| sjd18760800_bibleMATTHEW1878a-06          | Matthew 6       | 664    | finished | open   |
-| sjd18760800_bibleMATTHEW1878a-16          | Matthew 16      | 517    | finished | open   |
-| sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | open   |
-| sjd18760800_genetz1879a-01                | Matthew 1       | 328    | finished | open   | 
-| sjd18760800_genetz1879b-01                | Matthew 1       | 328    | finished | open   | 
-| sjd19960000_arapovic1996a-00Content       | Imprint         | 152    | finished | open   | 
-| sjd19960000_arapovic1996a-00Front         | Imprint         | 3      | finished | open   | 
-| sjd19960000_arapovic1996a-00Imprint       | Imprint         | 80     | finished | open   | 
-| sjd19960000_arapovic1996a-00Title         | Imprint         | 13     | finished | open   |
-| sjd20080000_ermolaeva2010a-00Title        | Imprint         | 5      | finished | open   |
-| sjd20080000_ermolaeva2010a-01             | Matthew 1       | 322    | finished | fair   | 
-| sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed | 71     | finished | fair   |
-| sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer   | 60     | finished | fair   |
-| sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint         | 56     | finished | open   | 
-| sjd20220300_bibleMATTHEW2022a-00Title     | Imprint         | 10     | finished | open   | 
-| sjd20220300_bibleMATTHEW2022a-01          | Matthew 1       | 315    | finished | closed |
-| sjd20220300_scheller2022a                 | Preface         | 559    | finished | closed |
-|                                           |                 |        | planned  | acad   |
-|                                           | Matthew 1       |        |          | open   |
-|                                           | Matthew 2       |        |          | open   |
+| Session                                   | Description     | Tokens | Status   | Use   |
+| ----------------------------------------- | --------------- | -----: | -------- | ----- |
+| sia1876                                   | Matthew 24      |        | planned  | free  |
+| sia1876                                   | Matthew 25      |        | planned  | free  |
+| sia1876                                   | Matthew 26      |        | planned  | free  |
+| sia1876                                   | Matthew 27      |        | planned  | free  |
+| sia1876                                   | Matthew 28      |        | planned  | free  |
+| sjd18760800_bibleMATTHEW1878a-00Title     | Imprint         | 2      | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint         | 19     | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-05          | Matthew 5       | 822    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-06          | Matthew 6       | 664    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-07          | Matthew 6       | 497    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-16          | Matthew 16      | 517    | finished | free  |
+| sjd18760800_genetz1879a-01                | Matthew 1       | 328    | finished | free  | 
+| sjd18760800_genetz1879a-05                | Matthew 5       | 825    | finished | free  | 
+| sjd18760800_genetz1879b-01                | Matthew 1       | 328    | finished | free  | 
+| sjd18760800_genetz1879b-05                | Matthew 5       | 825    | finished | free  | 
+| sjd18760800_genetz1891a-kilb05            | Matthew 5       | 824    | finished | free  |
+| sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | free  |
+| sjd19960000_arapovic1996a-00Content       | Imprint         | 152    | finished | free  | 
+| sjd19960000_arapovic1996a-00Front         | Imprint         | 3      | finished | free  | 
+| sjd19960000_arapovic1996a-00Imprint       | Imprint         | 80     | finished | free  | 
+| sjd19960000_arapovic1996a-00Title         | Imprint         | 13     | finished | free  |
+| sjd19960000_arapovic1996a-02Annunciation  | Jesus           | 260    | finished | acad  |
+| sjd19960000_arapovic1996a-04Birth         | Jesus           | 191    | finished | acad  |
+| sjd19960000_arapovic1996a-10Exile         | Jesus           | 275    | finished | acad  |
+| sjd20080000_ermolaeva2010a-00Title        | Imprint         | 5      | finished | free  |
+| sjd20080000_ermolaeva2010a-01             | Matthew 1       | 322    | finished | fair  | 
+| sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed | 71     | finished | fair  |
+| sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer   | 60     | finished | fair  |
+| sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint         | 56     | finished | free  | 
+| sjd20220300_bibleMATTHEW2022a-00Title     | Imprint         | 10     | finished | free  | 
+| sjd20220300_bibleMATTHEW2022a-01          | Matthew 1       | 315    | finished | bound |
+| sjd20220300_scheller2022a                 | Preface         | 559    | finished | bound |
+| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1       |        | planned  | free  |
+| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2       |        | planned  | bound |
+
 
 ### Session
 - Points to the file name
@@ -70,10 +83,10 @@ The following table provides an overview of the included data and the state of t
 - Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
 
 ### Use
-- Data marked as "closed" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
+- Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
 - Data marked as "acad" are under copyright but can be used under an academic license via the Language Bank of Finland.
 - Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer) or the fact that they have already been widely distributed in print makes allows their use as open corpus data, in our opinion.
-- Data marked as "open" are either in the Open Domain (old publications) or do not meet the threshold of originality (title pages, etc.).
+- Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (title pages, etc.).
 
 
 ## TODO
