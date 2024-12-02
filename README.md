@@ -23,14 +23,13 @@ The following paper includes a more complete description.
 If you use the data, please cite my paper.
 
 
-## Code of conduct
-…to be added in the file [Code of Conduct](CoC.md)…
-
-
 ## Data access
-Only parts of the corpus are openly available. Other parts are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only the project collaborators. If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi).
+Only parts of the corpus are openly available. Other parts – under bound licenses – are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only to project collaborators. 
 
-See the overview below to understand which parts of the data are under free or bound licenses.
+If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi).
+
+### Code of conduct
+Collaborators must acknowledge the terms of use by signing the [Code of Conduct](CoC.md).
 
 
 ## Metadata
