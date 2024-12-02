@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified"
+    DATE="2024-12-02T09:44:59+02:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:35bf7309-987f-485f-ab7e-2e8b4aec51bf</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">942</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="12000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="12000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="18000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="18000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="26000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="PAP1821m" TIER_ID="ref@PAP1821m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 01</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 02</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 03</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 04</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 05</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 06</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 07</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 25</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>sjd18760000_genetz1879a 26</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@PAP1821m"
+        PARTICIPANT="PAP1821m" TIER_ID="ref(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>8</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>10</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>11</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>12</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>13</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>14</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>15</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>16</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>17</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>18</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>19</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>20</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>21</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>22</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>23</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>24</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>25</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
+        PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Авьтма оа̄лкхэшш</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Ӣсус Христос, Авраам Альк, Давид Альк пуллдэгк.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Авраам шэ̄ннтэдҍ Ыссэх; Ыссэх шэ̄ннтэдҍ Ёа̄һкэ; Я̄гк шэ̄ннтэдҍ Иуда я со̄н вӣльетҍ;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Иуда шэ̄ннтэдҍ Фарес я Зара Фамарасьт; Фарес шэ̄ннтэдҍ Исром; Исром шэ̄ннтэдҍ Арам;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Арам шэ̄ннтэдҍ Аминадав: Аминадав шэ̄ннтэдҍ Наассон; Наассон шэ̄ннтэдҍ Салмон;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Салмон шэ̄ннтэдҍ Вооз Рахавасьт; Вооз шэ̄ннтэдҍ Овид Руфасьт, Овид шэ̄ннтэдҍ Иессей;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Е̄ссей шэ̄ннтэдҍ цоа̄р Давид; Цоа̄рр Давид шэ̄ннтэдҍ Соломон лӣньчла Уриеясьт;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Соломон шэ̄ннтэдҍ Ровоам; Ровоам шэ̄ннтэдҍ Авия; Авия шэ̄ннтэдҍ Аса;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Аса шэ̄ннтэдҍ Иосафат; Иосафат шэ̄ннтэдҍ Иорам; Иорам шэ̄ннтэдҍ Озия;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Озия шэ̄ннтэдҍ Иофам; Иофам шэ̄ннтэдҍ Ахаз; Ахаз шэ̄ннтэдҍ Езекия;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Езекия шэ̄ннтэдҍ Манассия; Манассия шэ̄ннтэдҍ Амон; Амон шэ̄ннтэдҍ Иосия;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Иосия шэ̄ннтэдҍ Иоаким; Иоаким шэ̄ннтэдҍ Иехония я со̄н вӣльетҍ, вэсьт вя̄ӆӆтэдтмэдтӭ Вавилонна.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Maӈӈa вя̄ӆӆтэдтмэнҍ Вавилонна Иехония шэ̄ннтэдҍ Салафиил; Салафиил шэ̄ннтэдҍ Зоровавел;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Зоровавель шэ̄ннтэдҍ Авиуд; Авиуд шэ̄ннтэдҍ Елиаким; Елиаким шэ̄ннтэдҍ Азор;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Азор шэ̄ннтэдҍ Садок; Садок шэ̄ннтэдҍ Ахим; Ахим шэ̄ннтэдҍ Елиуд;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Елиуд шэ̄ннтэдҍ Елеазар; Елеазар шэ̄ннтэдҍ Матфан; Матфан шэ̄ннтэдҍ Ёа̄ххкэ;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Я̄к шэ̄ннтэдҍ Ыссэх, Ма̄рьй кӯй, Ма̄рьесьт шэнтэ Ӣисус, нэ̄ммда Христоссэнҍ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Ныдть пугк пуллдэгкэ Авраамэсьт Давид райя не̄лльемплоагкь лӣ; я Давидэсьт вя̄ӆӆтэдтэм райя Вавилонна не̄лльемплоагкь пуллдэгкэ; я вя̄ӆӆтэдтмужэсьт Вавилонна Христос райя не̄лльемплоагкь пуллдэгкэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Ӣисус Христос шэ̄ннтмушш ля̄йй ныдтҍ: мaӈӈa сӯннъемэсьт Со̄н Е̄ннҍ Ыссхэнҍ вя̄ӊӊцъем райя, оччтэдэ, Ма̄ррьй я̄раслувэ Пассь Вӯййнсэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Ыссэх шэ, Со̄н кӯйй, ля̄йй вӯййк олма, эйй та̄һтма Со̄н огкнаһтӭ, та̄тэ пя̄ҋтэсьт лӯшшьтэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Ноа, куэссь со̄нн юррьтлувэ ныдтҍ лыһкэ, Ӣммель Ӣӈӈькэль вӯзьхувэ соннӭ нагкрэсьт я цӣӆькэ: Ыссэх, Давид алльк! ель пэ̄л ва̄лльтэ Ма̄рьй, ӣжянт коа̄бпэ, го шэ̄ннтэй Со̄н сыськасьт лӣ Пассь Вӯййнсэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Шэ̄ннтад Альк, я то̄нн антак Соннӭ нэ̄м Ӣсус, го Со̄нн пя̄сст Ӣжесь о̄ллмэтҍ рӣкенҍ сӣн.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>А пугк тэдт выйтэ, я ӣллькъювв ця̄ӆӆкма Ӣммьленҍ пэ̄йель ялэвтэсуййнэй о̄ллмэ, кӯ са̄ррн:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>тэдта Нӣййт я̄раслувв я шэ̄ннтад Альк, я анҍтэтҍ нэ̄м Соннӭ Еммануил, мэ̄нн быдт то̄ӆӆькъе: мӣнэгуэйм лӣ Ӣммель.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>Коадцъемэнҍ мaӈӈa нагкрэсьт, Ыссэх лыгкэ пугк ныдтҍ, ко̄ххт па̄кэ Ӣммель Ӣӈӈькэль, я воа̄льтэ коа̄бпкэсь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>Э эйй те̄дтма Со̄н, ко̄ххт кя̄джя Со̄нн шэ̄ннтэдҍ Альк ӣжесь авьтма, я Со̄нн энҍтэ Соннӭ нэ̄м Ӣсус.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a589" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Vūsmus ḁlkγoš.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a590" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Isus Xristos, Dḁvi̊d aᵢlk’, Ābram aᵢlk’ pūldɵγ sāᵢn’.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a591" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE> Ābram sḁγi̊j Issak; Issak sḁγi̊j Jḁhko; Jāk sḁgi̊j Iūda i sōn’ vīljijt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a592" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Iūda sḁγi̊j Fāres i Zāra Famarajn; Fāres sḁγi̊j Esrom; Esrom sḁγi̊j Āram;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a593" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Āram sḁγi̊j Aminādav; Aminādav sḁγi̊j Naasson; Naasson sḁγi̊j Salmon;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a594" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Salmon sḁγi̊j Vooz Raχavajn; Vɔoz sḁγi̊j Ovid Rufijn; Ovid sḁγij Iessej;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a595" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Iessej sḁγi̊j Dḁvi̊d cḁr’; Dḁvi̊d cḁrr sḁγi̊j Solomon Uᵢrej kḁpka;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a596" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Solomon sḁγi̊j Rovoam; Rovoam sḁγi̊j Avia; Avia sḁγi̊j Asa;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a597" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Asa sḁγi̊j Iosafat; Iosafat sḁγi̊j Ioram; Ioram sḁγi̊j Ozia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a598" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Ozia sḁγi̊j Ioafam; Ioafam sḁγi̊j Aχaz; Aχaz sḁγi̊j Jezekia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a599" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Jezekia sḁγi̊j Manassia; Manassia sḁγi̊j Amon; Amon sḁγi̊j Iosia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a600" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Iosia sḁγi̊j Ioakim; Joakim sḁγi̊j Ieχonia i sōn’ vīljijt ɵvtel vealhtɵtmuž’ Vaviloᵢnne.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a601" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>A mañña Vavilon’ vealhtɵtmužest Ieχonia sḁγi̊j Salafiil; Salafiil sḁγi̊j Zorovavel’;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a602" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Zorovavel sḁγi̊j Aviud; Aviud sḁγi̊j Eliakim; Eliakim sḁγi̊j Azor; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a603" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Azor sḁγi̊j Sādok; Sādok sḁγi̊j Aχim; Aχim sḁγi̊j Jeliud;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a604" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Jeliud sḁγi̊j Jeleazar; Jeleazar sḁγi̊j Matfan; Matfan sḁγi̊j Jḁhko;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a605" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Jāk sḁγi̊j Uɵᵢsk, Mārj kuj’, koᵢδest šɵndij Isus, kohčmańč Xristossėn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a606" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Nitt lejjėn pūkk pulvδɵγ Ābramest Dḁvi̊d rajja ńeljimp-loᵢkk pulvδɵkkeδ; i Dḁvi̊dest Vavilon’ vealhtɵtmuž rajja ńeljimp-loᵢkk pulvδɵkkeδ; i Vavilon’ vealhtɵtmužest Xristos’ rajja ńeljimp-loᵢkk pulvδɵkkeδ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a607" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Isus Xristos šɵntmuš leaj nitt: kuɵᵢss sōn’ ienn Mārj leaj mīδeχańč Oāska, ɵvtel veancjɵttem, šilki̊n son earas Paᵢss-vujñsest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a608" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>I Uɵᵢsk, sōn’ kujj, kū leaj vujkeδ, i ij tāhtmańč sōn’ oknaᵢhteδ, tātaj sōn’ peajhtaᵢst luᵢšteδ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a609" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Nu kuɵᵢss son tānn juᵢrteᵢl, kīč, Jimmel ieñkal ėδij soᵢnne nakrest, i cīlkij: Uɵᵢsk Dḁvi̊d aᵢlk! ieᵢl’ pɵl’ vāᵢltem Mārj, iǯant kḁppeγ; tɵnn guɵjk što lī sōn’ sisn šɵntej Paᵢss-vujñsest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a610" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Leańč son šɵntteδ aᵢlγ’, i ton lińčiχ soᵢnne sārneδ nɵm’: Isus; tɵnn guɵjk što son leańč olmujδis piesteδ sien’ rīkijn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a611" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>A tātt pūkk sɵnδij, što leańč Jimlijn sārnmańč pajjel prōrok, kū cealhk:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a612" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>Kīč, nījt leańč earas, i šant aᵢlk, i koᵢččešγɵᵢtteβ soᵢnne nɵm’ Emmanuil, kū leańč: mieni̊j guɵjm Jimmel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a613" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>Koccaj Uɵᵢsk uɵᵢtmen i tujšešγūδij mɵjt soᵢnne Jimmel ieñkal pākaj, i vḁᵢltij kḁpkes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a614" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>I son ij tiettańč sōn’ tɵnn rajja, što kuɵᵢss son puᵢtij ḁᵢlg’, vūsmus aᵢlgės; i son pėjij soᵢnne nɵm’: Isus.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="word(orig)T"
+        PARENT_REF="orth(orig)@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="word(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a615" ANNOTATION_REF="a589">
+                <ANNOTATION_VALUE>Vūsmus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a616" ANNOTATION_REF="a589" PREVIOUS_ANNOTATION="a615">
+                <ANNOTATION_VALUE>ḁlkγoš.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a617" ANNOTATION_REF="a590">
+                <ANNOTATION_VALUE>Isus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a618" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a617">
+                <ANNOTATION_VALUE>Xristos,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a619" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a618">
+                <ANNOTATION_VALUE>Dḁvi̊d</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a620" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a619">
+                <ANNOTATION_VALUE>aᵢlk’,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a621" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a620">
+                <ANNOTATION_VALUE>Ābram</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a622" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a621">
+                <ANNOTATION_VALUE>aᵢlk’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a623" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a622">
+                <ANNOTATION_VALUE>pūldɵγ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a624" ANNOTATION_REF="a590" PREVIOUS_ANNOTATION="a623">
+                <ANNOTATION_VALUE>sāᵢn’.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a625" ANNOTATION_REF="a591">
+                <ANNOTATION_VALUE>Ābram</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a626" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a625">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a627" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a626">
+                <ANNOTATION_VALUE>Issak;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a628" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a627">
+                <ANNOTATION_VALUE>Issak</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a629" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a628">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a630" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a629">
+                <ANNOTATION_VALUE>Jḁhko;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a631" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a630">
+                <ANNOTATION_VALUE>Jāk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a632" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a631">
+                <ANNOTATION_VALUE>sḁgi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a633" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a632">
+                <ANNOTATION_VALUE>Iūda</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a634" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a633">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a635" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a634">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a636" ANNOTATION_REF="a591" PREVIOUS_ANNOTATION="a635">
+                <ANNOTATION_VALUE>vīljijt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a637" ANNOTATION_REF="a592">
+                <ANNOTATION_VALUE>Iūda</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a638" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a637">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a639" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a638">
+                <ANNOTATION_VALUE>Fāres</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a640" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a639">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a641" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a640">
+                <ANNOTATION_VALUE>Zāra</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a642" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a641">
+                <ANNOTATION_VALUE>Famarajn;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a643" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a642">
+                <ANNOTATION_VALUE>Fāres</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a644" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a643">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a645" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a644">
+                <ANNOTATION_VALUE>Esrom;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a646" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a645">
+                <ANNOTATION_VALUE>Esrom</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a647" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a646">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a648" ANNOTATION_REF="a592" PREVIOUS_ANNOTATION="a647">
+                <ANNOTATION_VALUE>Āram;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a649" ANNOTATION_REF="a593">
+                <ANNOTATION_VALUE>Āram</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a650" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a649">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a651" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a650">
+                <ANNOTATION_VALUE>Aminādav;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a652" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a651">
+                <ANNOTATION_VALUE>Aminādav</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a653" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a652">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a654" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a653">
+                <ANNOTATION_VALUE>Naasson;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a655" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a654">
+                <ANNOTATION_VALUE>Naasson</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a656" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a655">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a657" ANNOTATION_REF="a593" PREVIOUS_ANNOTATION="a656">
+                <ANNOTATION_VALUE>Salmon;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a658" ANNOTATION_REF="a594">
+                <ANNOTATION_VALUE>Salmon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a659" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a658">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a660" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a659">
+                <ANNOTATION_VALUE>Vooz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a661" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a660">
+                <ANNOTATION_VALUE>Raχavajn;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a662" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a661">
+                <ANNOTATION_VALUE>Vɔoz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a663" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a662">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a664" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a663">
+                <ANNOTATION_VALUE>Ovid</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a665" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a664">
+                <ANNOTATION_VALUE>Rufijn;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a666" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a665">
+                <ANNOTATION_VALUE>Ovid</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a667" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a666">
+                <ANNOTATION_VALUE>sḁγij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a668" ANNOTATION_REF="a594" PREVIOUS_ANNOTATION="a667">
+                <ANNOTATION_VALUE>Iessej;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a669" ANNOTATION_REF="a595">
+                <ANNOTATION_VALUE>Iessej</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a670" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a669">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a671" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a670">
+                <ANNOTATION_VALUE>Dḁvi̊d</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a672" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a671">
+                <ANNOTATION_VALUE>cḁr’;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a673" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a672">
+                <ANNOTATION_VALUE>Dḁvi̊d</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a674" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a673">
+                <ANNOTATION_VALUE>cḁrr</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a675" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a674">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a676" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a675">
+                <ANNOTATION_VALUE>Solomon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a677" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a676">
+                <ANNOTATION_VALUE>Uᵢrej</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a678" ANNOTATION_REF="a595" PREVIOUS_ANNOTATION="a677">
+                <ANNOTATION_VALUE>kḁpka;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a679" ANNOTATION_REF="a596">
+                <ANNOTATION_VALUE>Solomon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a680" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a679">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a681" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a680">
+                <ANNOTATION_VALUE>Rovoam;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a682" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a681">
+                <ANNOTATION_VALUE>Rovoam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a683" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a682">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a684" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a683">
+                <ANNOTATION_VALUE>Avia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a685" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a684">
+                <ANNOTATION_VALUE>Avia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a686" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a685">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a687" ANNOTATION_REF="a596" PREVIOUS_ANNOTATION="a686">
+                <ANNOTATION_VALUE>Asa;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a688" ANNOTATION_REF="a597">
+                <ANNOTATION_VALUE>Asa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a689" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a688">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a690" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a689">
+                <ANNOTATION_VALUE>Iosafat;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a691" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a690">
+                <ANNOTATION_VALUE>Iosafat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a692" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a691">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a693" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a692">
+                <ANNOTATION_VALUE>Ioram;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a694" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a693">
+                <ANNOTATION_VALUE>Ioram</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a695" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a694">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a696" ANNOTATION_REF="a597" PREVIOUS_ANNOTATION="a695">
+                <ANNOTATION_VALUE>Ozia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a697" ANNOTATION_REF="a598">
+                <ANNOTATION_VALUE>Ozia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a698" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a697">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a699" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a698">
+                <ANNOTATION_VALUE>Ioafam;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a700" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a699">
+                <ANNOTATION_VALUE>Ioafam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a701" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a700">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a702" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a701">
+                <ANNOTATION_VALUE>Aχaz;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a703" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a702">
+                <ANNOTATION_VALUE>Aχaz</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a704" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a703">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a705" ANNOTATION_REF="a598" PREVIOUS_ANNOTATION="a704">
+                <ANNOTATION_VALUE>Jezekia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a706" ANNOTATION_REF="a599">
+                <ANNOTATION_VALUE>Jezekia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a707" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a706">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a708" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a707">
+                <ANNOTATION_VALUE>Manassia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a709" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a708">
+                <ANNOTATION_VALUE>Manassia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a710" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a709">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a711" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a710">
+                <ANNOTATION_VALUE>Amon;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a712" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a711">
+                <ANNOTATION_VALUE>Amon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a713" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a712">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a714" ANNOTATION_REF="a599" PREVIOUS_ANNOTATION="a713">
+                <ANNOTATION_VALUE>Iosia;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a715" ANNOTATION_REF="a600">
+                <ANNOTATION_VALUE>Iosia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a716" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a715">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a717" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a716">
+                <ANNOTATION_VALUE>Ioakim;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a718" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a717">
+                <ANNOTATION_VALUE>Joakim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a719" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a718">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a720" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a719">
+                <ANNOTATION_VALUE>Ieχonia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a721" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a720">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a722" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a721">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a723" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a722">
+                <ANNOTATION_VALUE>vīljijt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a724" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a723">
+                <ANNOTATION_VALUE>ɵvtel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a725" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a724">
+                <ANNOTATION_VALUE>vealhtɵtmuž’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a726" ANNOTATION_REF="a600" PREVIOUS_ANNOTATION="a725">
+                <ANNOTATION_VALUE>Vaviloᵢnne.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a727" ANNOTATION_REF="a601">
+                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a728" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a727">
+                <ANNOTATION_VALUE>mañña</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a729" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a728">
+                <ANNOTATION_VALUE>Vavilon’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a730" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a729">
+                <ANNOTATION_VALUE>vealhtɵtmužest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a731" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a730">
+                <ANNOTATION_VALUE>Ieχonia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a732" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a731">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a733" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a732">
+                <ANNOTATION_VALUE>Salafiil;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a734" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a733">
+                <ANNOTATION_VALUE>Salafiil</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a735" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a734">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a736" ANNOTATION_REF="a601" PREVIOUS_ANNOTATION="a735">
+                <ANNOTATION_VALUE>Zorovavel’;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a737" ANNOTATION_REF="a602">
+                <ANNOTATION_VALUE>Zorovavel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a738" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a737">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a739" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a738">
+                <ANNOTATION_VALUE>Aviud;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a740" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a739">
+                <ANNOTATION_VALUE>Aviud</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a741" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a740">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a742" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a741">
+                <ANNOTATION_VALUE>Eliakim;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a743" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a742">
+                <ANNOTATION_VALUE>Eliakim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a744" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a743">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a745" ANNOTATION_REF="a602" PREVIOUS_ANNOTATION="a744">
+                <ANNOTATION_VALUE>Azor;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a746" ANNOTATION_REF="a603">
+                <ANNOTATION_VALUE>Azor</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a747" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a746">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a748" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a747">
+                <ANNOTATION_VALUE>Sādok;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a749" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a748">
+                <ANNOTATION_VALUE>Sādok</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a750" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a749">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a751" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a750">
+                <ANNOTATION_VALUE>Aχim;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a752" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a751">
+                <ANNOTATION_VALUE>Aχim</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a753" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a752">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a603" PREVIOUS_ANNOTATION="a753">
+                <ANNOTATION_VALUE>Jeliud;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a755" ANNOTATION_REF="a604">
+                <ANNOTATION_VALUE>Jeliud</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a756" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a755">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a757" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a756">
+                <ANNOTATION_VALUE>Jeleazar;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a758" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a757">
+                <ANNOTATION_VALUE>Jeleazar</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a759" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a758">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a760" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a759">
+                <ANNOTATION_VALUE>Matfan;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a761" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a760">
+                <ANNOTATION_VALUE>Matfan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a762" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a761">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a763" ANNOTATION_REF="a604" PREVIOUS_ANNOTATION="a762">
+                <ANNOTATION_VALUE>Jḁhko;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a764" ANNOTATION_REF="a605">
+                <ANNOTATION_VALUE>Jāk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a765" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a764">
+                <ANNOTATION_VALUE>sḁγi̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a766" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a765">
+                <ANNOTATION_VALUE>Uɵᵢsk,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a767" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a766">
+                <ANNOTATION_VALUE>Mārj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a768" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a767">
+                <ANNOTATION_VALUE>kuj’,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a769" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a768">
+                <ANNOTATION_VALUE>koᵢδest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a770" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a769">
+                <ANNOTATION_VALUE>šɵndij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a771" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a770">
+                <ANNOTATION_VALUE>Isus,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a772" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a771">
+                <ANNOTATION_VALUE>kohčmańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a773" ANNOTATION_REF="a605" PREVIOUS_ANNOTATION="a772">
+                <ANNOTATION_VALUE>Xristossėn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a774" ANNOTATION_REF="a606">
+                <ANNOTATION_VALUE>Nitt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a775" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a774">
+                <ANNOTATION_VALUE>lejjėn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a776" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a775">
+                <ANNOTATION_VALUE>pūkk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a777" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a776">
+                <ANNOTATION_VALUE>pulvδɵγ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a778" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a777">
+                <ANNOTATION_VALUE>Ābramest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a779" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a778">
+                <ANNOTATION_VALUE>Dḁvi̊d</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a780" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a779">
+                <ANNOTATION_VALUE>rajja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a781" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a780">
+                <ANNOTATION_VALUE>ńeljimp-loᵢkk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a782" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a781">
+                <ANNOTATION_VALUE>pulvδɵkkeδ;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a782">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a784" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a783">
+                <ANNOTATION_VALUE>Dḁvi̊dest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a785" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a784">
+                <ANNOTATION_VALUE>Vavilon’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a786" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a785">
+                <ANNOTATION_VALUE>vealhtɵtmuž</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a787" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a786">
+                <ANNOTATION_VALUE>rajja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a788" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a787">
+                <ANNOTATION_VALUE>ńeljimp-loᵢkk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a789" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a788">
+                <ANNOTATION_VALUE>pulvδɵkkeδ;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a790" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a789">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a791" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a790">
+                <ANNOTATION_VALUE>Vavilon’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a792" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a791">
+                <ANNOTATION_VALUE>vealhtɵtmužest</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a793" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a792">
+                <ANNOTATION_VALUE>Xristos’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a794" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a793">
+                <ANNOTATION_VALUE>rajja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a795" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a794">
+                <ANNOTATION_VALUE>ńeljimp-loᵢkk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a796" ANNOTATION_REF="a606" PREVIOUS_ANNOTATION="a795">
+                <ANNOTATION_VALUE>pulvδɵkkeδ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a797" ANNOTATION_REF="a607">
+                <ANNOTATION_VALUE>Isus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a798" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a797">
+                <ANNOTATION_VALUE>Xristos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a799" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a798">
+                <ANNOTATION_VALUE>šɵntmuš</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a800" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a799">
+                <ANNOTATION_VALUE>leaj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a801" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a800">
+                <ANNOTATION_VALUE>nitt:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a802" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a801">
+                <ANNOTATION_VALUE>kuɵᵢss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a803" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a802">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a804" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a803">
+                <ANNOTATION_VALUE>ienn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a805" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a804">
+                <ANNOTATION_VALUE>Mārj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a806" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a805">
+                <ANNOTATION_VALUE>leaj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a807" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a806">
+                <ANNOTATION_VALUE>mīδeχańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a808" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a807">
+                <ANNOTATION_VALUE>Oāska,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a809" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a808">
+                <ANNOTATION_VALUE>ɵvtel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a810" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a809">
+                <ANNOTATION_VALUE>veancjɵttem,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a811" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a810">
+                <ANNOTATION_VALUE>šilki̊n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a812" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a811">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a813" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a812">
+                <ANNOTATION_VALUE>earas</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a814" ANNOTATION_REF="a607" PREVIOUS_ANNOTATION="a813">
+                <ANNOTATION_VALUE>Paᵢss-vujñsest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a815" ANNOTATION_REF="a608">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a816" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a815">
+                <ANNOTATION_VALUE>Uɵᵢsk,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a817" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a816">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a818" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a817">
+                <ANNOTATION_VALUE>kujj,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a819" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a818">
+                <ANNOTATION_VALUE>kū</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a820" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a819">
+                <ANNOTATION_VALUE>leaj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a821" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a820">
+                <ANNOTATION_VALUE>vujkeδ,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a822" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a821">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a823" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a822">
+                <ANNOTATION_VALUE>ij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a824" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a823">
+                <ANNOTATION_VALUE>tāhtmańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a825" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a824">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a826" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a825">
+                <ANNOTATION_VALUE>oknaᵢhteδ,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a827" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a826">
+                <ANNOTATION_VALUE>tātaj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a828" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a827">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a829" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a828">
+                <ANNOTATION_VALUE>peajhtaᵢst</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a830" ANNOTATION_REF="a608" PREVIOUS_ANNOTATION="a829">
+                <ANNOTATION_VALUE>luᵢšteδ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a831" ANNOTATION_REF="a609">
+                <ANNOTATION_VALUE>Nu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a832" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a831">
+                <ANNOTATION_VALUE>kuɵᵢss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a833" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a832">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a834" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a833">
+                <ANNOTATION_VALUE>tānn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a835" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a834">
+                <ANNOTATION_VALUE>juᵢrteᵢl,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a836" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a835">
+                <ANNOTATION_VALUE>kīč,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a837" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a836">
+                <ANNOTATION_VALUE>Jimmel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a838" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a837">
+                <ANNOTATION_VALUE>ieñkal</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a839" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a838">
+                <ANNOTATION_VALUE>ėδij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a840" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a839">
+                <ANNOTATION_VALUE>soᵢnne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a841" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a840">
+                <ANNOTATION_VALUE>nakrest,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a842" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a841">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a843" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a842">
+                <ANNOTATION_VALUE>cīlkij:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a844" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a843">
+                <ANNOTATION_VALUE>Uɵᵢsk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a845" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a844">
+                <ANNOTATION_VALUE>Dḁvi̊d</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a846" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a845">
+                <ANNOTATION_VALUE>aᵢlk!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a847" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a846">
+                <ANNOTATION_VALUE>ieᵢl’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a848" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a847">
+                <ANNOTATION_VALUE>pɵl’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a849" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a848">
+                <ANNOTATION_VALUE>vāᵢltem</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a850" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a849">
+                <ANNOTATION_VALUE>Mārj,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a851" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a850">
+                <ANNOTATION_VALUE>iǯant</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a852" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a851">
+                <ANNOTATION_VALUE>kḁppeγ;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a853" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a852">
+                <ANNOTATION_VALUE>tɵnn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a854" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a853">
+                <ANNOTATION_VALUE>guɵjk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a855" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a854">
+                <ANNOTATION_VALUE>što</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a856" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a855">
+                <ANNOTATION_VALUE>lī</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a857" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a856">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a858" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a857">
+                <ANNOTATION_VALUE>sisn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a859" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a858">
+                <ANNOTATION_VALUE>šɵntej</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a860" ANNOTATION_REF="a609" PREVIOUS_ANNOTATION="a859">
+                <ANNOTATION_VALUE>Paᵢss-vujñsest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a861" ANNOTATION_REF="a610">
+                <ANNOTATION_VALUE>Leańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a862" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a861">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a863" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a862">
+                <ANNOTATION_VALUE>šɵntteδ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a864" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a863">
+                <ANNOTATION_VALUE>aᵢlγ’,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a865" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a864">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a866" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a865">
+                <ANNOTATION_VALUE>ton</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a867" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a866">
+                <ANNOTATION_VALUE>lińčiχ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a868" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a867">
+                <ANNOTATION_VALUE>soᵢnne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a869" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a868">
+                <ANNOTATION_VALUE>sārneδ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a870" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a869">
+                <ANNOTATION_VALUE>nɵm’:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a871" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a870">
+                <ANNOTATION_VALUE>Isus;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a872" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a871">
+                <ANNOTATION_VALUE>tɵnn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a873" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a872">
+                <ANNOTATION_VALUE>guɵjk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a874" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a873">
+                <ANNOTATION_VALUE>što</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a875" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a874">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a876" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a875">
+                <ANNOTATION_VALUE>leańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a877" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a876">
+                <ANNOTATION_VALUE>olmujδis</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a878" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a877">
+                <ANNOTATION_VALUE>piesteδ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a879" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a878">
+                <ANNOTATION_VALUE>sien’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a880" ANNOTATION_REF="a610" PREVIOUS_ANNOTATION="a879">
+                <ANNOTATION_VALUE>rīkijn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a881" ANNOTATION_REF="a611">
+                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a882" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a881">
+                <ANNOTATION_VALUE>tātt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a883" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a882">
+                <ANNOTATION_VALUE>pūkk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a884" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a883">
+                <ANNOTATION_VALUE>sɵnδij,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a885" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a884">
+                <ANNOTATION_VALUE>što</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a886" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a885">
+                <ANNOTATION_VALUE>leańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a887" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a886">
+                <ANNOTATION_VALUE>Jimlijn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a888" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a887">
+                <ANNOTATION_VALUE>sārnmańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a889" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a888">
+                <ANNOTATION_VALUE>pajjel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a890" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a889">
+                <ANNOTATION_VALUE>prōrok,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a891" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a890">
+                <ANNOTATION_VALUE>kū</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a892" ANNOTATION_REF="a611" PREVIOUS_ANNOTATION="a891">
+                <ANNOTATION_VALUE>cealhk:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a893" ANNOTATION_REF="a612">
+                <ANNOTATION_VALUE>Kīč,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a894" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a893">
+                <ANNOTATION_VALUE>nījt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a895" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a894">
+                <ANNOTATION_VALUE>leańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a896" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a895">
+                <ANNOTATION_VALUE>earas,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a897" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a896">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a898" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a897">
+                <ANNOTATION_VALUE>šant</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a899" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a898">
+                <ANNOTATION_VALUE>aᵢlk,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a900" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a899">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a901" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a900">
+                <ANNOTATION_VALUE>koᵢččešγɵᵢtteβ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a902" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a901">
+                <ANNOTATION_VALUE>soᵢnne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a903" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a902">
+                <ANNOTATION_VALUE>nɵm’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a904" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a903">
+                <ANNOTATION_VALUE>Emmanuil,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a905" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a904">
+                <ANNOTATION_VALUE>kū</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a906" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a905">
+                <ANNOTATION_VALUE>leańč:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a907" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a906">
+                <ANNOTATION_VALUE>mieni̊j</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a908" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a907">
+                <ANNOTATION_VALUE>guɵjm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a909" ANNOTATION_REF="a612" PREVIOUS_ANNOTATION="a908">
+                <ANNOTATION_VALUE>Jimmel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a910" ANNOTATION_REF="a613">
+                <ANNOTATION_VALUE>Koccaj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a911" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a910">
+                <ANNOTATION_VALUE>Uɵᵢsk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a912" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a911">
+                <ANNOTATION_VALUE>uɵᵢtmen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a913" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a912">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a914" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a913">
+                <ANNOTATION_VALUE>tujšešγūδij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a915" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a914">
+                <ANNOTATION_VALUE>mɵjt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a916" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a915">
+                <ANNOTATION_VALUE>soᵢnne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a917" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a916">
+                <ANNOTATION_VALUE>Jimmel</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a918" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a917">
+                <ANNOTATION_VALUE>ieñkal</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a919" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a918">
+                <ANNOTATION_VALUE>pākaj,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a920" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a919">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a921" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a920">
+                <ANNOTATION_VALUE>vḁᵢltij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a922" ANNOTATION_REF="a613" PREVIOUS_ANNOTATION="a921">
+                <ANNOTATION_VALUE>kḁpkes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a923" ANNOTATION_REF="a614">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a924" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a923">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a925" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a924">
+                <ANNOTATION_VALUE>ij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a926" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a925">
+                <ANNOTATION_VALUE>tiettańč</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a927" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a926">
+                <ANNOTATION_VALUE>sōn’</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a928" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a927">
+                <ANNOTATION_VALUE>tɵnn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a929" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a928">
+                <ANNOTATION_VALUE>rajja,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a930" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a929">
+                <ANNOTATION_VALUE>što</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a931" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a930">
+                <ANNOTATION_VALUE>kuɵᵢss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a932" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a931">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a933" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a932">
+                <ANNOTATION_VALUE>puᵢtij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a934" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a933">
+                <ANNOTATION_VALUE>ḁᵢlg’,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a935" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a934">
+                <ANNOTATION_VALUE>vūsmus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a936" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a935">
+                <ANNOTATION_VALUE>aᵢlgės;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a937" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a936">
+                <ANNOTATION_VALUE>i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a938" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a937">
+                <ANNOTATION_VALUE>son</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a939" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a938">
+                <ANNOTATION_VALUE>pėjij</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a940" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a939">
+                <ANNOTATION_VALUE>soᵢnne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a941" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a940">
+                <ANNOTATION_VALUE>nɵm’:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a942" ANNOTATION_REF="a614" PREVIOUS_ANNOTATION="a941">
+                <ANNOTATION_VALUE>Isus.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-rus(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orth(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00137447-001"
+        LANG_ID="sjd" LANG_LABEL="Kildin Sami (sjd)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
