@@ -1,5 +1,7 @@
 # Kola Saami Christian Text Corpus (KSCTC)
 
+Current version: Alpha (not released yet)
+
 The main author of the dataset and administrator of this project is Michael Rießler.
 
 The following paper includes a more complete description.
