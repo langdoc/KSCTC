@@ -5,7 +5,7 @@ Current version: Alpha (not released yet)
 
 ## Authors and credits
 
-The main author of the dataset and administrator of this project is Michael Rießler.
+The main author of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/).
 
 The following paper includes a more complete description.
 
@@ -28,7 +28,9 @@ If you use the data, please cite my paper.
 
 
 ## Data access
-Only parts of the corpus are openly available. Other parts are found in a private repository. See the overview below. 
+Only parts of the corpus are openly available. Other parts are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only the project collaborators. If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi).
+
+See the overview below to understand which parts of the data are under free or bound licenses.
 
 
 ## Metadata
