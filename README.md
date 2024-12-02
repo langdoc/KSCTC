@@ -23,6 +23,10 @@ The following paper includes a more complete description.
 If you use the data, please cite my paper.
 
 
+## Data format
+The corpus data is modelled in XLM using the tool [ELAN](https://archive.mpi.nl/tla/elan]).
+
+
 ## Data access
 Only parts of the corpus are openly available. Other parts – under bound licenses – are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only to project collaborators. 
 
@@ -33,7 +37,13 @@ Collaborators must acknowledge the terms of use by signing the [Code of Conduct]
 
 
 ## Metadata
-Currently, only basic metadata is available. Session metadata can be extracted from the overview below. Metadata on the text originators is included in the individual sessions (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
+Currently, only basic metadata is available. 
+
+Session metadata can be extracted from the overview below. 
+
+Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). 
+
+Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
 
 More detailed metadata is planned to be published (in CMDI format) later.
 
