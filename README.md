@@ -34,11 +34,13 @@ See the overview below to understand which parts of the data are under free or b
 
 
 ## Metadata
-Currently, only basic metadata is included; see the overview below. More detailed metadata is planned to be published (in CMDI format) later.
+Currently, only basic metadata is available. Session metadata can be extracted from the overview below. Metadata on the text originators is included in the individual sessions (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
+
+More detailed metadata is planned to be published (in CMDI format) later.
 
 
 ## Simple corpus statistics
-The following table provides an overview of the included data and the state of their completion. Basic metadata can also be extracted.
+The following table provides an overview of the included data and the state of their completion.
 
 | Session                                   | Description     | Tokens | Status   | Use   |
 | ----------------------------------------- | --------------- | -----: | -------- | ----- |
