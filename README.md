@@ -28,28 +28,30 @@ Currently, only basic metadata is included; see the overview below. More detaile
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion. Basic metadata can also be extracted.
 
-| Session                                 | Description     | Tokens | Status   | Use    |
-| --------------------------------------- | --------------- | -----: | -------- | ----   |
-| sjd18760800_bibleMATTHEW1878a-00Title   | Imprint         | 19     | finished | open   |
-| sjd18760800_bibleMATTHEW1878a-06        | Matthew 6       | 664    | finished | open   |
-| sjd18760800_genetz1891a-kilb06          | Matthew 6       | 633    | finished | open   |
-| sjd18760800_genetz1879a-01              | Matthew 1       | 328    | finished | open   | 
-| sjd18760800_genetz1879b-01              | Matthew 1       | 328    | finished | open   | 
-| sjd19960000_arapovic1996a-00Content     | Imprint         | 152    | finished | open   | 
-| sjd19960000_arapovic1996a-00Front       | Imprint         | 3      | finished | open   | 
-| sjd19960000_arapovic1996a-00Imprint     | Imprint         | 80     | finished | open   | 
-| sjd19960000_arapovic1996a-00Title       | Imprint         | 13     | finished | open   |
-| sjd20080000_ermolaeva2010a-00Title      | Imprint         | 5      | finished | open   |
-| sjd20080000_ermolaeva2010a-01           | Matthew 1       | 322    | finished | fair   | 
-| sjd20220300_bibleAPOSTLES2022a          | Apostles' Creed | 71     | finished | fair   |
-| sjd20220300_bibleLORDMATTH2022a         | Lord's Prayer   | 60     | finished | fair   |
-| sjd20220300_bibleMATTHEW2022a-00Imprint | Imprint         | 56     | finished | open   | 
-| sjd20220300_bibleMATTHEW2022a-00Title   | Imprint         | 10     | finished | open   | 
-| sjd20220300_bibleMATTHEW2022a-01        | Matthew 1       | 315    | finished | closed |
-| sjd20220300_scheller2022a               | Preface         | 559    | finished | closed |
-|                                         |                 |        | planned  | acad   |
-|                                         | Matthew 1       |        |          | open   |
-|                                         | Matthew 2       |        |          | open   |
+| Session                                   | Description     | Tokens | Status   | Use    |
+| ----------------------------------------- | --------------- | -----: | -------- | ----   |
+| sjd18760800_bibleMATTHEW1878a-00Title     | Imprint         | 2      | finished | open   |
+| sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint         | 19     | finished | open   |
+| sjd18760800_bibleMATTHEW1878a-06          | Matthew 6       | 664    | finished | open   |
+| sjd18760800_bibleMATTHEW1878a-16          | Matthew 16      | 517    | finished | open   |
+| sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | open   |
+| sjd18760800_genetz1879a-01                | Matthew 1       | 328    | finished | open   | 
+| sjd18760800_genetz1879b-01                | Matthew 1       | 328    | finished | open   | 
+| sjd19960000_arapovic1996a-00Content       | Imprint         | 152    | finished | open   | 
+| sjd19960000_arapovic1996a-00Front         | Imprint         | 3      | finished | open   | 
+| sjd19960000_arapovic1996a-00Imprint       | Imprint         | 80     | finished | open   | 
+| sjd19960000_arapovic1996a-00Title         | Imprint         | 13     | finished | open   |
+| sjd20080000_ermolaeva2010a-00Title        | Imprint         | 5      | finished | open   |
+| sjd20080000_ermolaeva2010a-01             | Matthew 1       | 322    | finished | fair   | 
+| sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed | 71     | finished | fair   |
+| sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer   | 60     | finished | fair   |
+| sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint         | 56     | finished | open   | 
+| sjd20220300_bibleMATTHEW2022a-00Title     | Imprint         | 10     | finished | open   | 
+| sjd20220300_bibleMATTHEW2022a-01          | Matthew 1       | 315    | finished | closed |
+| sjd20220300_scheller2022a                 | Preface         | 559    | finished | closed |
+|                                           |                 |        | planned  | acad   |
+|                                           | Matthew 1       |        |          | open   |
+|                                           | Matthew 2       |        |          | open   |
 
 ### Session
 - Points to the file name
