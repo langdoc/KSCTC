@@ -68,6 +68,7 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_genetz1879a-05                | Matthew 5       | 825    | finished | free  | 
 | sjd18760800_genetz1879b-01                | Matthew 1       | 328    | finished | free  | 
 | sjd18760800_genetz1879b-05                | Matthew 5       | 825    | finished | free  | 
+| sjd18760800_genetz1879b-07                | Matthew 7       | 498    | finished | free  | 
 | sjd18760800_genetz1891a-kilb05            | Matthew 5       | 824    | finished | free  |
 | sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | free  |
 | sjd18760800_genetz1891a-kilb07            | Matthew 7       | 497    | finished | free  |
