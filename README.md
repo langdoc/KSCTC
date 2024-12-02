@@ -2,6 +2,9 @@
 
 Current version: Alpha (not released yet)
 
+
+## Authors and credits
+
 The main author of the dataset and administrator of this project is Michael Rießler.
 
 The following paper includes a more complete description.
@@ -19,8 +22,13 @@ The following paper includes a more complete description.
 
 If you use the data, please cite my paper.
 
+
 ## Code of conduct
 …to be added in the file [Code of Conduct](CoC.md)…
+
+
+## Data access
+Only parts of the corpus are openly available. Other parts are found in a private repository. See the overview below. 
 
 
 ## Metadata
@@ -67,28 +75,27 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_bibleMATTHEW1878a-01          | Matthew 1       |        | planned  | free  |
 | sjd20220300_bibleMATTHEW2022a-02          | Matthew 2       |        | planned  | bound |
 
-
-### Session
+Session
 - Points to the file name
 	- The language is indicated (as ISO) in the first three letters of the file name.
  	- The second section of the file name indicates the data of origin, at least the year. 
  	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
   	- The fourth section (if applicable, after hyphen) is for sub sets. 	 
 
-### Description
+Description
 - See more metadata in the respective CMDI files (work in progress).
 
-### Tokens
+Tokens
 - Simple token count
 
-### Status
+Status
 - Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
 
-### Use
+Use
 - Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
 - Data marked as "acad" are under copyright but can be used under an academic license via the Language Bank of Finland.
 - Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer) or the fact that they have already been widely distributed in print makes allows their use as open corpus data, in our opinion.
-- Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (title pages, etc.).
+- Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (book imprints, title pages, etc.).
 
 
 ## TODO
