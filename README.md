@@ -70,6 +70,7 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_genetz1879b-05                | Matthew 5       | 825    | finished | free  | 
 | sjd18760800_genetz1891a-kilb05            | Matthew 5       | 824    | finished | free  |
 | sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | free  |
+| sjd18760800_genetz1891a-kilb07            | Matthew 7       | 497    | finished | free  |
 | sjd19960000_arapovic1996a-00Content       | Imprint         | 152    | finished | free  | 
 | sjd19960000_arapovic1996a-00Front         | Imprint         | 3      | finished | free  | 
 | sjd19960000_arapovic1996a-00Imprint       | Imprint         | 80     | finished | free  | 
