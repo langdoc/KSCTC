@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-12-02T19:31:34+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-12-02T19:39:35+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -560,7 +560,7 @@
         PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth(orig)@PAP1821m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9959" ANNOTATION_REF="a9839">
-                <ANNOTATION_VALUE>Ielled sūtteδ, i ieppeδ līńče sūtma.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ielleδ sūtteδ, i ieppeδ līńče sūtma.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
