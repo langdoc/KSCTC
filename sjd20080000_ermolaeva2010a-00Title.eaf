@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-30T16:39:08+02:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-12-03T17:25:44+02:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -24,19 +24,6 @@
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>sjd20080000_ermolaeva2010a-00Title 1</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig-ermolaeva)T"
-        PARENT_REF="ref@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="orth(orig-ermolaeva)@AAA1932f">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9838" ANNOTATION_REF="a7015">
-                <ANNOTATION_VALUE>Махьтвэсьт Пассь Евангеле/</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9843" ANNOTATION_REF="a9842">
-                <ANNOTATION_VALUE>кtлт кtлл</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
@@ -75,34 +62,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9849" ANNOTATION_REF="a9842">
                 <ANNOTATION_VALUE>кӣлт кӣлл</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="word(orig)T"
-        PARENT_REF="orth(orig)@AAA1932f" PARTICIPANT="AAA1932f" TIER_ID="word(orig)@AAA1932f">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9855" ANNOTATION_REF="a9848">
-                <ANNOTATION_VALUE>Махьтвэсьт</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9856" ANNOTATION_REF="a9848" PREVIOUS_ANNOTATION="a9855">
-                <ANNOTATION_VALUE>Пассь</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9857" ANNOTATION_REF="a9848" PREVIOUS_ANNOTATION="a9856">
-                <ANNOTATION_VALUE>Евангеле/</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9858" ANNOTATION_REF="a9849">
-                <ANNOTATION_VALUE>кӣлт</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9859" ANNOTATION_REF="a9849" PREVIOUS_ANNOTATION="a9858">
-                <ANNOTATION_VALUE>кӣлл</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
