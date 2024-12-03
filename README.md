@@ -57,6 +57,7 @@ The following table provides an overview of the included data and the state of t
 | sia18760800_bibleMATTHEW1878a-28          | Matthew 28       |        |   | free  |
 | sjd18760800_bibleMATTHEW1878a-00Title     | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint          | 19     | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1        |        |   | free  |
 | sjd18760800_bibleMATTHEW1878a-05          | Matthew 5        | 822    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-06          | Matthew 6        | 664    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-07          | Matthew 6        | 497    | finished | free  |
@@ -85,11 +86,35 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint          | 56     | finished | free  | 
 | sjd20220300_bibleMATTHEW2022a-00Title     | Imprint          | 10     | finished | free  | 
 | sjd20220300_bibleMATTHEW2022a-01          | Matthew 1        | 315    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-03          | Matthew 3        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-04          | Matthew 4        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-05          | Matthew 5        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-06          | Matthew 6        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-07          | Matthew 7        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-08          | Matthew 8        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-09          | Matthew 9        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-10          | Matthew 10       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-11          | Matthew 11       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-12          | Matthew 12       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-13          | Matthew 13       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-14          | Matthew 14       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-15          | Matthew 15       |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-16          | Matthew 16       | 464    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16L2        | Matthew 16:22-28 | 127    | finished | fair  |
+| sjd20220300_bibleMATTHEW2022a-17          | Matthew 17       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-18          | Matthew 18       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-19          | Matthew 19       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-20          | Matthew 20       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-21          | Matthew 21       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-22          | Matthew 22       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-23          | Matthew 23       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-24          | Matthew 24       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-25          | Matthew 25       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-26          | Matthew 26       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-27          | Matthew 27       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-28          | Matthew 28       | 464    | finished | bound |
 | sjd20220300_scheller2022a                 | Preface          | 559    | finished | bound |
-| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1        |        |   | free  |
-| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2        |        |   | bound |
 
 Session
 - Points to the file name
