@@ -26,6 +26,14 @@ If you use the data, please cite this paper.
 ## Data format
 The data is modelled in XLM using the corpus tool [ELAN](https://archive.mpi.nl/tla/elan]).
 
+Tiers included are
+-"ref" - project-internal ID for each single chunk
+-"ref(orig)" - if applicable: verse number (Gospel of Matthew and Lord's Prayer) as location for parallelization
+-"orth(orig)" - original text in original script
+-"orth" - normalized orthography
+-"ft-rus" - if applicable: free Russian translation
+-"ft-rus(orig)" - if applicable: original Russian text on which the translation is based
+
 
 ## Data access
 Only parts of the corpus are openly available. Other parts – under bound licenses – are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only to project collaborators. 
