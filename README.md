@@ -5,9 +5,9 @@ Current version: Alpha (not released yet)
 
 ## Authors and credits
 
-The main author of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/).
+The originator of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). The second main author is [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/).
 
-The following paper includes a more complete description.
+The following paper (in press) includes a more complete description.
 
 ```
 @incollection{riesler2024a,
@@ -20,11 +20,11 @@ The following paper includes a more complete description.
 	year = {2024}}
 ```
 
-If you use the data, please cite my paper.
+If you use the data, please cite this paper.
 
 
 ## Data format
-The corpus data is modelled in XLM using the tool [ELAN](https://archive.mpi.nl/tla/elan]).
+The data is modelled in XLM using the corpus tool [ELAN](https://archive.mpi.nl/tla/elan]).
 
 
 ## Data access
@@ -32,18 +32,15 @@ Only parts of the corpus are openly available. Other parts – under bound licen
 
 If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi).
 
+
 ### Code of conduct
-Collaborators must acknowledge the terms of use by signing the [Code of Conduct](CoC.md).
+Collaborators must acknowledge the terms of use by signing the [Code of Conduct](CoC.md) (in the works).
 
 
 ## Metadata
 Currently, only basic metadata is available. 
 
-Session metadata can be extracted from the overview below. 
-
-Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). 
-
-Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
+Session metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
 
 More detailed metadata is planned to be published (in CMDI format) later.
 
@@ -51,46 +48,48 @@ More detailed metadata is planned to be published (in CMDI format) later.
 ## Simple corpus statistics
 The following table provides an overview of the included data and the state of their completion.
 
-| Session                                   | Description     | Tokens | Status   | Use   |
-| ----------------------------------------- | --------------- | -----: | -------- | ----- |
-| sia1876                                   | Matthew 24      |        | planned  | free  |
-| sia1876                                   | Matthew 25      |        | planned  | free  |
-| sia1876                                   | Matthew 26      |        | planned  | free  |
-| sia1876                                   | Matthew 27      |        | planned  | free  |
-| sia1876                                   | Matthew 28      |        | planned  | free  |
-| sjd18760800_bibleMATTHEW1878a-00Title     | Imprint         | 2      | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint         | 19     | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-05          | Matthew 5       | 822    | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-06          | Matthew 6       | 664    | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-07          | Matthew 6       | 497    | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-16          | Matthew 16      | 517    | finished | free  |
-| sjd18760800_genetz1879a-01                | Matthew 1       | 328    | finished | free  | 
-| sjd18760800_genetz1879a-05                | Matthew 5       | 825    | finished | free  | 
-| sjd18760800_genetz1879b-01                | Matthew 1       | 328    | finished | free  | 
-| sjd18760800_genetz1879b-05                | Matthew 5       | 825    | finished | free  | 
-| sjd18760800_genetz1879b-07                | Matthew 7       | 498    | finished | free  | 
-| sjd18760800_genetz1891a-kilb05            | Matthew 5       | 824    | finished | free  |
-| sjd18760800_genetz1891a-kilb06            | Matthew 6       | 633    | finished | free  |
-| sjd18760800_genetz1891a-kilb07            | Matthew 7       | 497    | finished | free  |
-| sjd19960000_arapovic1996a-00Content       | Imprint         | 152    | finished | free  | 
-| sjd19960000_arapovic1996a-00Front         | Imprint         | 3      | finished | free  | 
-| sjd19960000_arapovic1996a-00Imprint       | Imprint         | 80     | finished | free  | 
-| sjd19960000_arapovic1996a-00Title         | Imprint         | 13     | finished | free  |
-| sjd19960000_arapovic1996a-02Annunciation  | Jesus           | 260    | finished | acad  |
-| sjd19960000_arapovic1996a-04Birth         | Jesus           | 191    | finished | acad  |
-| sjd19960000_arapovic1996a-10Exile         | Jesus           | 275    | finished | acad  |
-| sjd19960000_arapovic1996a-19LordsPrayer   | Jesus           | 63     | finished | acad  |
-| sjd19960000_bibleLORDMATTHEW1996a         | Lord's Prayer   | 63     | finished | fair  | 
-| sjd20080000_ermolaeva2010a-00Title        | Imprint         | 5      | finished | free  |
-| sjd20080000_ermolaeva2010a-01             | Matthew 1       | 322    | finished | fair  | 
-| sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed | 71     | finished | fair  |
-| sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer   | 60     | finished | fair  |
-| sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint         | 56     | finished | free  | 
-| sjd20220300_bibleMATTHEW2022a-00Title     | Imprint         | 10     | finished | free  | 
-| sjd20220300_bibleMATTHEW2022a-01          | Matthew 1       | 315    | finished | bound |
-| sjd20220300_scheller2022a                 | Preface         | 559    | finished | bound |
-| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1       |        | planned  | free  |
-| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2       |        | planned  | bound |
+| Session                                   | Description      | Tokens | Status   | Use   |
+| ----------------------------------------- | ---------------- | -----: | -------- | ----- |
+| sia1876                                   | Matthew 24       |        | planned  | free  |
+| sia1876                                   | Matthew 25       |        | planned  | free  |
+| sia1876                                   | Matthew 26       |        | planned  | free  |
+| sia1876                                   | Matthew 27       |        | planned  | free  |
+| sia1876                                   | Matthew 28       |        | planned  | free  |
+| sjd18760800_bibleMATTHEW1878a-00Title     | Imprint          | 2      | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint          | 19     | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-05          | Matthew 5        | 822    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-06          | Matthew 6        | 664    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-07          | Matthew 6        | 497    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-16          | Matthew 16       | 517    | finished | free  |
+| sjd18760800_genetz1879a-01                | Matthew 1        | 328    | finished | free  | 
+| sjd18760800_genetz1879a-05                | Matthew 5        | 825    | finished | free  | 
+| sjd18760800_genetz1879b-01                | Matthew 1        | 328    | finished | free  | 
+| sjd18760800_genetz1879b-05                | Matthew 5        | 825    | finished | free  | 
+| sjd18760800_genetz1879b-07                | Matthew 7        | 498    | finished | free  | 
+| sjd18760800_genetz1891a-kilb05            | Matthew 5        | 824    | finished | free  |
+| sjd18760800_genetz1891a-kilb06            | Matthew 6        | 633    | finished | free  |
+| sjd18760800_genetz1891a-kilb07            | Matthew 7        | 497    | finished | free  |
+| sjd19960000_arapovic1996a-00Content       | Imprint          | 152    | finished | free  | 
+| sjd19960000_arapovic1996a-00Front         | Imprint          | 3      | finished | free  | 
+| sjd19960000_arapovic1996a-00Imprint       | Imprint          | 80     | finished | free  | 
+| sjd19960000_arapovic1996a-00Title         | Imprint          | 13     | finished | free  |
+| sjd19960000_arapovic1996a-02Annunciation  | Jesus            | 260    | finished | acad  |
+| sjd19960000_arapovic1996a-04Birth         | Jesus            | 191    | finished | acad  |
+| sjd19960000_arapovic1996a-10Exile         | Jesus            | 275    | finished | acad  |
+| sjd19960000_arapovic1996a-19LordsPrayer   | Jesus            | 63     | finished | acad  |
+| sjd19960000_bibleLORDMATTHEW1996a         | Lord's Prayer    | 63     | finished | fair  | 
+| sjd20080000_ermolaeva2010a-00Title        | Imprint          | 5      | finished | free  |
+| sjd20080000_ermolaeva2010a-01             | Matthew 1        | 322    | finished | fair  | 
+| sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed  | 71     | finished | fair  |
+| sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer    | 60     | finished | fair  |
+| sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint          | 56     | finished | free  | 
+| sjd20220300_bibleMATTHEW2022a-00Title     | Imprint          | 10     | finished | free  | 
+| sjd20220300_bibleMATTHEW2022a-01          | Matthew 1        | 315    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-16          | Matthew 16       | 464    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-16L2        | Matthew 16:22-28 | 127    | planned  | fair  |
+| sjd20220300_scheller2022a                 | Preface          | 559    | finished | bound |
+| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1        |        | planned  | free  |
+| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2        |        | planned  | bound |
 
 Session
 - Points to the file name
