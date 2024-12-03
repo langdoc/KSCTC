@@ -50,11 +50,11 @@ The following table provides an overview of the included data and the state of t
 
 | Session                                   | Description      | Tokens | Status   | Use   |
 | ----------------------------------------- | ---------------- | -----: | -------- | ----- |
-| sia1876                                   | Matthew 24       |        | planned  | free  |
-| sia1876                                   | Matthew 25       |        | planned  | free  |
-| sia1876                                   | Matthew 26       |        | planned  | free  |
-| sia1876                                   | Matthew 27       |        | planned  | free  |
-| sia1876                                   | Matthew 28       |        | planned  | free  |
+| sia18760800_bibleMATTHEW1878a-24          | Matthew 24       |        |   | free  |
+| sia18760800_bibleMATTHEW1878a-25          | Matthew 25       |        |   | free  |
+| sia18760800_bibleMATTHEW1878a-26          | Matthew 26       |        |   | free  |
+| sia18760800_bibleMATTHEW1878a-27          | Matthew 27       |        |   | free  |
+| sia18760800_bibleMATTHEW1878a-28          | Matthew 28       |        |   | free  |
 | sjd18760800_bibleMATTHEW1878a-00Title     | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage | Imprint          | 19     | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-05          | Matthew 5        | 822    | finished | free  |
@@ -86,10 +86,10 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-00Title     | Imprint          | 10     | finished | free  | 
 | sjd20220300_bibleMATTHEW2022a-01          | Matthew 1        | 315    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16          | Matthew 16       | 464    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-16L2        | Matthew 16:22-28 | 127    | planned  | fair  |
+| sjd20220300_bibleMATTHEW2022a-16L2        | Matthew 16:22-28 | 127    | finished | fair  |
 | sjd20220300_scheller2022a                 | Preface          | 559    | finished | bound |
-| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1        |        | planned  | free  |
-| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2        |        | planned  | bound |
+| sjd18760800_bibleMATTHEW1878a-01          | Matthew 1        |        |   | free  |
+| sjd20220300_bibleMATTHEW2022a-02          | Matthew 2        |        |   | bound |
 
 Session
 - Points to the file name
