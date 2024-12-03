@@ -76,12 +76,13 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-00Title         | Imprint          | 13     | finished | free  |
 | sjd19960000_arapovic1996a-02Annunciation  | Jesus            | 260    | finished | acad  |
 | sjd19960000_arapovic1996a-04Birth         | Jesus            | 191    | finished | acad  |
-| sjd19960000_arapovic1996a-10Exile         | Jesus            | 275    | finished | acad  |
 | sjd19960000_arapovic1996a-06Shepherds     | Jesus            | 240    | finished | acad  |
+| sjd19960000_arapovic1996a-10Exile         | Jesus            | 275    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer   | Jesus            | 63     | finished | acad  |
 | sjd19960000_bibleLORDMATTHEW1996a         | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20080000_ermolaeva2010a-00Title        | Imprint          | 5      | finished | free  |
 | sjd20080000_ermolaeva2010a-01             | Matthew 1        | 322    | finished | fair  | 
+| sjd20141008_bibleLORDMATTH2022b           | Lord's Prayer    | 58     | finished | fair  |
 | sjd20220300_bibleAPOSTLES2022a            | Apostles' Creed  | 71     | finished | fair  |
 | sjd20220300_bibleLORDMATTH2022a           | Lord's Prayer    | 60     | finished | fair  |
 | sjd20220300_bibleMATTHEW2022a-00Imprint   | Imprint          | 56     | finished | free  | 
