@@ -119,9 +119,9 @@ The following table provides an overview of the included data and the state of t
 Session
 - Points to the file name
 	- The language is indicated (as ISO) in the first three letters of the file name.
- 	- The second section of the file name indicates the data of origin, at least the year. 
+ 	- The second section of the file name indicates the (known or estimated) date of origin, at least the year. 
  	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
-  	- The fourth section (if applicable, after hyphen) is for sub sets. 	 
+  	- The fourth section (if applicable, after hyphen) indicates sub-sets. 	 
 
 Description
 - See more metadata in the respective CMDI files (work in progress).
@@ -135,7 +135,7 @@ Status
 Use
 - Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
 - Data marked as "acad" are under copyright but can be used under an academic license via the Language Bank of Finland.
-- Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer) or the fact that they have already been widely distributed in print makes allows their use as open corpus data, in our opinion.
+- Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer), their earlier distribution, or other reasons allows their use as open corpus data in research, in our opinion.
 - Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (book imprints, title pages, etc.).
 
 
