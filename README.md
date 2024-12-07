@@ -7,20 +7,21 @@ Current version: Alpha (not released yet)
 
 The originator of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). The second main author is [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/).
 
-The following paper (in press) includes a more complete description.
+The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18)) includes a more complete description. If you use the data, please cite this paper (below a bibtex code snippet).
 
 ```
+
 @incollection{riesler2024a,
 	address = {Helsinki},
 	author = {Rie{\ss}ler, Michael},
 	booktitle = {Proceedings of the 9th International Workshop on Computational Linguistics for Uralic Languages},
+	editor = {H{\"a}m{\"a}l{\"a}inen, Mika and Pirinen, Flammie and Macias, Melany and Avila, Mario Crespo},
 	pages = {138-144},
 	publisher = {ACL},
 	title = {Kola Saami Christian Text Corpus},
+	url = {https://aclanthology.org/2024.iwclul-1.18},
 	year = {2024}}
 ```
-
-If you use the data, please cite this paper.
 
 
 ## Data format
