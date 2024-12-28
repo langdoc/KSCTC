@@ -72,9 +72,9 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_bibleMATTHEW1878a-06          | Matthew 6        | 664    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-07          | Matthew 6        | 497    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-16          | Matthew 16       | 517    | finished | free  |
-| sjd18760800_genetz1879a-07                | Matthew 7        | 498    | finished | free  | 
 | sjd18760800_genetz1879a-01                | Matthew 1        | 328    | finished | free  | 
 | sjd18760800_genetz1879a-05                | Matthew 5        | 825    | finished | free  | 
+| sjd18760800_genetz1879a-07                | Matthew 7        | 498    | finished | free  | 
 | sjd18760800_genetz1879b-01                | Matthew 1        | 328    | finished | free  | 
 | sjd18760800_genetz1879b-05                | Matthew 5        | 825    | finished | free  | 
 | sjd18760800_genetz1879b-07                | Matthew 7        | 498    | finished | free  | 
