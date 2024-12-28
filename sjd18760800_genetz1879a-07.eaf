@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-12-02T19:27:23+02:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:09a6c334-a2a7-4bb3-af7f-e7a173ea5987</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">10677</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="17"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="8712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="8712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="10451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="12190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="12190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="13930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="13930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="15669"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="15669"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="17408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="17408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="19147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="19147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="20886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="20886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="22625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="22625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="24364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="26104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="26104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="27843"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="27843"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="29582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="29582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="31321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="31321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="33060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="33060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="34799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="34799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="36538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="36538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="38277"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="38277"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="40017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="40017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="41756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="41756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="43495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="43495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="45234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="45234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="46973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="46973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="48712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="48712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="50451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="50451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="52191"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="PAP1821m" TIER_ID="ref@PAP1821m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9838"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 01</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9839"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 02</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9840"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 03</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9841"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 04</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9842"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 05</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9843"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 06</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9844"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 07</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9845"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9846"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9847"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9848"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9849"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9850"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9851"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9852"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9853"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9854"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9855"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9856"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9857"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9858"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9859"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9860"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9861"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9862"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 25</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9863"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 26</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9864"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 27</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9865"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 28</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9866"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 29</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9867"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>sjd18760800genetz1879a-07 30</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orthT"
+        PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9898" ANNOTATION_REF="a9838">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9899" ANNOTATION_REF="a9839">
+                <ANNOTATION_VALUE>Ielled sūtte∂, i ieppe∂ līńče sūtma.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9900" ANNOTATION_REF="a9840">
+                <ANNOTATION_VALUE>Tonn guojk što maᵢnte tij sū∂i̊jn sūtboᵢtte∂, tojn sū∂i̊jn i lińčboᵢtte∂ sūtmańč, i maᵢnte tij mīriin mieᵢr∂eppe∂, mukka mīrijn i tijje mieᵢr∂ešguo∂ett.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9901" ANNOTATION_REF="a9841">
+                <ANNOTATION_VALUE>I mojt ton kīčax oavsa ol’, kū lī vīljant čaᵢlmest, a omp mūr’ īǯant čaᵢlmest kul‘ i̊kk?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9902" ANNOTATION_REF="a9842">
+                <ANNOTATION_VALUE>Ili koxt cealkax vīljsant: orest, mun vāltam oavsa tōn' čaᵢlmest; a kīč, tōh' čaᵢlmest lī omp mūrr?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9903" ANNOTATION_REF="a9843">
+                <ANNOTATION_VALUE>Ton kūxtlańč! Vāᵢlt ovtlest omp mūr' īǯant čaᵢlmest, i tanna ujnax vāᵢlte∂ oavsa vīljant čaᵢlmest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9904" ANNOTATION_REF="a9844">
+                <ANNOTATION_VALUE>Ielle∂ ontleᵢkke∂ paᵢss-ealajt pienᶌijt, i ielle∂ suohpe∂ īǯant zemčuᶌ šeᶌij oᵢvte, što sij ieß tōptče tojt jūᵢlᶌis kuojm i mḁst māᵢhclemmen ieß ki̊šknehče tienijt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9905" ANNOTATION_REF="a9845">
+                <ANNOTATION_VALUE>Anne∂, i leańč tijje antańč; ōcce∂, i kḁvnbeᵢtte∂; tāk∂otte∂, to i ḁᵢv∂ett tijje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9906" ANNOTATION_REF="a9846">
+                <ANNOTATION_VALUE>Tonn guojk što juᵢkke ānnoj vālt, i ōccej kavn, i tāk-∂otja ḁᵢv∂ett.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9907" ANNOTATION_REF="a9847">
+                <ANNOTATION_VALUE>Līja tieni̊j koskest mukka olmuńč, kū, kuoᵢss sōn‘ aᵢlk ānast sonst lejp, antahč soᵢnne kiedᶌ?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9908" ANNOTATION_REF="a9848">
+                <ANNOTATION_VALUE>I kuoᵢss ān'sahč kūᵢl', aᵢltnahč soᵢnne kūv∂?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9909" ANNOTATION_REF="a9849">
+                <ANNOTATION_VALUE>И ныдтҍ, go tij, kūkk lieppe∂ pḁkk, uojßeᵢtte∂ amte∂ pārnaj∂ant шӣг antmušijt; тэйн е̄намп ant tien' aᵢlm-ajč šīknijt tojt, kokk ānneß со̄нэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9910" ANNOTATION_REF="a9850">
+                <ANNOTATION_VALUE>I nitt, pūki̊jn, koxt tāxted što olmo eal'čen tieni̊j guojm, nitt i tij ielled sieni̊j guojm; tonn guojk što to-lajn' ließ' zākon i prōrok.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9911" ANNOTATION_REF="a9851">
+                <ANNOTATION_VALUE>Monne∂ toᵢkkes uvs mīlt; тэнн гуэйкэ, штэ тэдт uks лӣ šurr э tott čuokas lī kōmteɣ, кӯ vi̊kk majkem-sajia, э е̄ннэ vḁr∂eß тэйй мӣлльтэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9912" ANNOTATION_REF="a9852">
+                <ANNOTATION_VALUE>Tonn guojk штэ tott uks lī tokke∂ i čuokas lī kieᵢnc, kokk vi̊kkeß ieᵢllem-sajja, э te∂ о̄ллмэдтӭ эйй е̄ннэ лӣ, кэгк kḁvneß tojt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9913" ANNOTATION_REF="a9853">
+                <ANNOTATION_VALUE>Vḁᵢr'∂uvve∂ kīles-prōroki̊jn, kōkk pōtleß tijje lāmpas-ḁsɣij guojm, a sisn sij ließ ki̊škej čolp.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9914" ANNOTATION_REF="a9854">
+                <ANNOTATION_VALUE>Sien' šantaj mīlt tītbeᵢtte∂ sieni̊jt. Kōpčax ton, ikk vinn-mūrijjt čōhkoj-mīstkest ili smokvajt pašnontej rāᵢzest?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9915" ANNOTATION_REF="a9855">
+                <ANNOTATION_VALUE>Nitt juᵢkke šīɣ mūrr šonta∂ šīɣ šantajt; a ńuoᵢzes mūrr i šonta∂ ńuoᵢzes šantait.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9916" ANNOTATION_REF="a9856">
+                <ANNOTATION_VALUE>Ij uoj šīɣ mūrr puhte∂ ńuoᵢzes šantajt, i ńuoᵢzes mūrr puhte∂ šīɣ šantajt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9917" ANNOTATION_REF="a9857">
+                <ANNOTATION_VALUE>Juᵢkke mūrr, kū ij puᵢt šīɣ puttajt, rāᵢ∂ett i suohpjett toᵢlle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9918" ANNOTATION_REF="a9858">
+                <ANNOTATION_VALUE>Nitt sien' šantai mīlt tītboᵢtte∂ sieni̊jt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9919" ANNOTATION_REF="a9859">
+                <ANNOTATION_VALUE>Ij juᵢkjańč, kū sārn muᵢnne: Gospo∂i, Gospo∂i! lińče monne∂ aᵢlm cārstva, a tott, kū teavt mūn' aᵢlm-aᵢǯ' tāhtmuž.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9920" ANNOTATION_REF="a9860">
+                <ANNOTATION_VALUE>Е̄ннэ leańč mi̊ᵢnne sārnjeᵢtte∂ tonn piejv: Gospo∂i, Gospo∂i! Vaj' mij tōn' nomest ovtlest ḁjgij sārnajm? Э vaj' mij tōn' nomi̊jn vuoj'xijm cūᵢrtijt? Э vaj' mij tōn' nomi̊jn е̄ннэ kūᵢstnaᵢhtem tujje∂ tujšijm?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9921" ANNOTATION_REF="a9861">
+                <ANNOTATION_VALUE>I tanna mun sijje sārnam: mun ni kuoᵢss i̊m tiettańč tieni̊jt: monne∂ iers sajja munst, tij zākonxemmes tuj'šej'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9922" ANNOTATION_REF="a9862">
+                <ANNOTATION_VALUE>I nitt pejam juᵢkja, kie kultal to-lajt' mūn' sḁɣi̊jt, i kie eall sieni̊j mīlt, ovt-nalšemen mīlves olmujn, kū tujišt portes pāᵢvt' ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9923" ANNOTATION_REF="a9863">
+                <ANNOTATION_VALUE>I vūlgij aᵢbr, i tīvtén jōɣ', i pīnkjén pīñg', i čḁᵢvven tonn port ol' i son jōrmańč ij; tonn guojk što son leaj tuj'šańč kie∂ɣ' ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9924" ANNOTATION_REF="a9864">
+                <ANNOTATION_VALUE>A juᵢkjańč, kie kull tājt mun' sḁɣi̊jt i ij tuješt nitt, leańč piimańč ovt nālla mīl'xemmes olmujn, kū tuješt īǯes port vūntas ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9925" ANNOTATION_REF="a9865">
+                <ANNOTATION_VALUE>I vūlgij aᵢbr, i koᵢlg'∂én jōɣ', i pīñkjén pīñg', i vi̊ᵢrrén tonn port ol'; son i jōri̊j i leaj sōn' jōrmuš šurr.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9926" ANNOTATION_REF="a9866">
+                <ANNOTATION_VALUE>I kuoᵢss Isus lūptij tājt sḁɣi̊jt, olmo div∂eᵢtten sōn' māᵢlxemuš:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9927" ANNOTATION_REF="a9867">
+                <ANNOTATION_VALUE>Tonn guojk što son uoᵢpeᵢst sieni̊jt koxt vāltlańč, a ij nitt koxt kirj-kī∂ i farisēj'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@PAP1821m"
+        PARTICIPANT="PAP1821m" TIER_ID="ref(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9929" ANNOTATION_REF="a9839">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9930" ANNOTATION_REF="a9840">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9931" ANNOTATION_REF="a9841">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9932" ANNOTATION_REF="a9842">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9933" ANNOTATION_REF="a9843">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9934" ANNOTATION_REF="a9844">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9935" ANNOTATION_REF="a9845">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9936" ANNOTATION_REF="a9846">
+                <ANNOTATION_VALUE>8</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9937" ANNOTATION_REF="a9847">
+                <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9938" ANNOTATION_REF="a9848">
+                <ANNOTATION_VALUE>10</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9939" ANNOTATION_REF="a9849">
+                <ANNOTATION_VALUE>11</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9940" ANNOTATION_REF="a9850">
+                <ANNOTATION_VALUE>12</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9941" ANNOTATION_REF="a9851">
+                <ANNOTATION_VALUE>13</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9942" ANNOTATION_REF="a9852">
+                <ANNOTATION_VALUE>14</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9943" ANNOTATION_REF="a9853">
+                <ANNOTATION_VALUE>15</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9944" ANNOTATION_REF="a9854">
+                <ANNOTATION_VALUE>16</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9945" ANNOTATION_REF="a9855">
+                <ANNOTATION_VALUE>17</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9946" ANNOTATION_REF="a9856">
+                <ANNOTATION_VALUE>18</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9947" ANNOTATION_REF="a9857">
+                <ANNOTATION_VALUE>19</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9948" ANNOTATION_REF="a9858">
+                <ANNOTATION_VALUE>20</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9949" ANNOTATION_REF="a9859">
+                <ANNOTATION_VALUE>21</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9950" ANNOTATION_REF="a9860">
+                <ANNOTATION_VALUE>22</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9951" ANNOTATION_REF="a9861">
+                <ANNOTATION_VALUE>23</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9952" ANNOTATION_REF="a9862">
+                <ANNOTATION_VALUE>24</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9953" ANNOTATION_REF="a9863">
+                <ANNOTATION_VALUE>25</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9954" ANNOTATION_REF="a9864">
+                <ANNOTATION_VALUE>26</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9955" ANNOTATION_REF="a9865">
+                <ANNOTATION_VALUE>27</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9956" ANNOTATION_REF="a9866">
+                <ANNOTATION_VALUE>28</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9957" ANNOTATION_REF="a9867">
+                <ANNOTATION_VALUE>29</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="rus" LINGUISTIC_TYPE_REF="ft-rus(orig)T"
+        PARENT_REF="orth@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="ft-rus(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9988" ANNOTATION_REF="a9898">
+                <ANNOTATION_VALUE>Седьмая глава.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9989" ANNOTATION_REF="a9899">
+                <ANNOTATION_VALUE>Не судите, да не судимы будете,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9990" ANNOTATION_REF="a9900">
+                <ANNOTATION_VALUE>ибо каким судом судите, таким будете судимы; и какою мерою мерите, такою и вам будут мерить.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9991" ANNOTATION_REF="a9901">
+                <ANNOTATION_VALUE>И што ты смотришь на сучок в глазе брата твоего, а бревна в твоем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9992" ANNOTATION_REF="a9902">
+                <ANNOTATION_VALUE>Или как скажешь брату твоему: " дай, я выну сучок из глаза твоего ", а вот, в твоем глазе бревно ? глазе не чувствуешь ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9993" ANNOTATION_REF="a9903">
+                <ANNOTATION_VALUE>Лицемер ! вынь прежде бревно из твоего глаза и тогда увидишь, как вынуть сучок из глаза брата твоего.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9994" ANNOTATION_REF="a9904">
+                <ANNOTATION_VALUE>Не давайте святыни псам и не бросайте жемчуга вашего перед свиньями, чтобы они не попрали его ногами своими и, обратившись, не растерзали вас.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9995" ANNOTATION_REF="a9905">
+                <ANNOTATION_VALUE>Просите, и дано будет вам; ищите, и найдете; стучите, и отворят вам;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9996" ANNOTATION_REF="a9906">
+                <ANNOTATION_VALUE>ибо всякий просящий получает, и ищущий находит, и стучащему отворят.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9997" ANNOTATION_REF="a9907">
+                <ANNOTATION_VALUE>есть ли между вами такой человек, который, когда сын его попросит у него хлеба, подал бы ему камень ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9998" ANNOTATION_REF="a9908">
+                <ANNOTATION_VALUE>и когда попросит рыбы, подал бы ему змею ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9999" ANNOTATION_REF="a9909">
+                <ANNOTATION_VALUE>Итак если вы, будучи злы, умеете даяния благие давать детям вашим, тем более Отец ваш Небесный даст блага просящим у Него.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10000" ANNOTATION_REF="a9910">
+                <ANNOTATION_VALUE>Итак во всем, как хотите, чтобы с вами поступали люди, так поступайте и вы с ними, ибо в этом закон и пророки.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10001" ANNOTATION_REF="a9911">
+                <ANNOTATION_VALUE>Входите тесными вратами, потому што широки врата и пространен путь, ведущие в погибель, и многие идут ими;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10002" ANNOTATION_REF="a9912">
+                <ANNOTATION_VALUE>потому што тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10003" ANNOTATION_REF="a9913">
+                <ANNOTATION_VALUE>Берегитесь лжепророков, которые приходят к вам в овечьей одежде, а внутри суть волки хищные.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10004" ANNOTATION_REF="a9914">
+                <ANNOTATION_VALUE>По плодам их узнаете их. Собирают ли с терновника виноград, или с репейника смоквы ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10005" ANNOTATION_REF="a9915">
+                <ANNOTATION_VALUE>Так всякое дерево доброе приносит и плоды добрые, а худое дерево приносит и плоды худые.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10006" ANNOTATION_REF="a9916">
+                <ANNOTATION_VALUE>Не может дерево доброе приносить плоды худые, ни дерево худое приносить плоды добрые.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10007" ANNOTATION_REF="a9917">
+                <ANNOTATION_VALUE>Всякое дерево, не приносящее плода доброго, срубают и бросают в огонь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10008" ANNOTATION_REF="a9918">
+                <ANNOTATION_VALUE>Итак по плодам их узнаете их.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10009" ANNOTATION_REF="a9919">
+                <ANNOTATION_VALUE>Не всякий, говорящий Мне: " Господи ! Господи ! ", войдет в Царство Небесное, но исполняющий волю Отца Моего Небесного.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10010" ANNOTATION_REF="a9920">
+                <ANNOTATION_VALUE>Многие скажут Мне в тот день: Господи ! Господи ! не от Твоего ли имени мы пророчествовали ? и не Твоим ли именем бесов изгоняли ? и не Твоим ли именем многие чудеса творили ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10011" ANNOTATION_REF="a9921">
+                <ANNOTATION_VALUE>И тогда объявлю им: Я никогда не знал вас; отойдите от Меня, делающие беззаконие.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10012" ANNOTATION_REF="a9922">
+                <ANNOTATION_VALUE>Итак всякого, кто слушает слова Мои сии и исполняет их, уподоблю мужу благоразумному, который построил дом свой на камне;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10013" ANNOTATION_REF="a9923">
+                <ANNOTATION_VALUE>и пошел дождь, и разлились реки, и подули ветры, и устремились на дом тот, и он не упал, потому што основан был на камне.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10014" ANNOTATION_REF="a9924">
+                <ANNOTATION_VALUE>А всякий, кто слушает сии слова Мои и не исполняет их, уподобится человеку безрассудному, который построил дом свой на песке;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10015" ANNOTATION_REF="a9925">
+                <ANNOTATION_VALUE>и пошел дождь, и разлились реки, и подули ветры, и налегли на дом тот; и он упал, и было падение его великое.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10016" ANNOTATION_REF="a9926">
+                <ANNOTATION_VALUE>И когда Иисус окончил слова сии, народ дивился учению Его,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10017" ANNOTATION_REF="a9927">
+                <ANNOTATION_VALUE>ибо Он учил их, как власть имеющий, а не как книжники и фарисеи.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10648" ANNOTATION_REF="a9838">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10649" ANNOTATION_REF="a9839">
+                <ANNOTATION_VALUE>Ielled sūtte∂, i ieppe∂ līńče sūtma.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10650" ANNOTATION_REF="a9840">
+                <ANNOTATION_VALUE>Tonn guojk što maᵢnte tij sū∂i̊jn sūtboᵢtte∂, tojn sū∂i̊jn i lińčboᵢtte∂ sūtmańč, i maᵢnte tij mīriin mieᵢr∂eppe∂, mukka mīrijn i tijje mieᵢr∂ešguo∂ett.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10651" ANNOTATION_REF="a9841">
+                <ANNOTATION_VALUE>I mojt ton kīčax oavsa ol’, kū lī vīljant čaᵢlmest, a omp mūr’ īǯant čaᵢlmest kul‘ i̊kk?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10652" ANNOTATION_REF="a9842">
+                <ANNOTATION_VALUE>Ili koxt cealkax vīljsant: orest, mun vāltam oavsa tōn' čaᵢlmest; a kīč, tōh' čaᵢlmest lī omp mūrr?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10653" ANNOTATION_REF="a9843">
+                <ANNOTATION_VALUE>Ton kūxtlańč! Vāᵢlt ovtlest omp mūr' īǯant čaᵢlmest, i tanna ujnax vāᵢlte∂ oavsa vīljant čaᵢlmest.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10654" ANNOTATION_REF="a9844">
+                <ANNOTATION_VALUE>Ielle∂ ontleᵢkke∂ paᵢss-ealajt pienᶌijt, i ielle∂ suohpe∂ īǯant zemčuᶌ šeᶌij oᵢvte, što sij ieß tōptče tojt jūᵢlᶌis kuojm i mḁst māᵢhclemmen ieß ki̊šknehče tienijt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10655" ANNOTATION_REF="a9845">
+                <ANNOTATION_VALUE>Anne∂, i leańč tijje antańč; ōcce∂, i kḁvnbeᵢtte∂; tāk∂otte∂, to i ḁᵢv∂ett tijje.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10656" ANNOTATION_REF="a9846">
+                <ANNOTATION_VALUE>Tonn guojk što juᵢkke ānnoj vālt, i ōccej kavn, i tāk-∂otja ḁᵢv∂ett.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10657" ANNOTATION_REF="a9847">
+                <ANNOTATION_VALUE>Līja tieni̊j koskest mukka olmuńč, kū, kuoᵢss sōn‘ aᵢlk ānast sonst lejp, antahč soᵢnne kiedᶌ?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10658" ANNOTATION_REF="a9848">
+                <ANNOTATION_VALUE>I kuoᵢss ān'sahč kūᵢl', aᵢltnahč soᵢnne kūv∂?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10659" ANNOTATION_REF="a9849">
+                <ANNOTATION_VALUE>И ныдтҍ, go tij, kūkk lieppe∂ pḁkk, uojßeᵢtte∂ amte∂ pārnaj∂ant шӣг antmušijt; тэйн е̄намп ant tien' aᵢlm-ajč šīknijt tojt, kokk ānneß со̄нэсьт.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10660" ANNOTATION_REF="a9850">
+                <ANNOTATION_VALUE>I nitt, pūki̊jn, koxt tāxted što olmo eal'čen tieni̊j guojm, nitt i tij ielled sieni̊j guojm; tonn guojk što to-lajn' ließ' zākon i prōrok.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10661" ANNOTATION_REF="a9851">
+                <ANNOTATION_VALUE>Monne∂ toᵢkkes uvs mīlt; тэнн гуэйкэ, штэ тэдт uks лӣ šurr э tott čuokas lī kōmteɣ, кӯ vi̊kk majkem-sajia, э е̄ннэ vḁr∂eß тэйй мӣлльтэ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10662" ANNOTATION_REF="a9852">
+                <ANNOTATION_VALUE>Tonn guojk штэ tott uks lī tokke∂ i čuokas lī kieᵢnc, kokk vi̊kkeß ieᵢllem-sajja, э te∂ о̄ллмэдтӭ эйй е̄ннэ лӣ, кэгк kḁvneß tojt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10663" ANNOTATION_REF="a9853">
+                <ANNOTATION_VALUE>Vḁᵢr'∂uvve∂ kīles-prōroki̊jn, kōkk pōtleß tijje lāmpas-ḁsɣij guojm, a sisn sij ließ ki̊škej čolp.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10664" ANNOTATION_REF="a9854">
+                <ANNOTATION_VALUE>Sien' šantaj mīlt tītbeᵢtte∂ sieni̊jt. Kōpčax ton, ikk vinn-mūrijjt čōhkoj-mīstkest ili smokvajt pašnontej rāᵢzest?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10665" ANNOTATION_REF="a9855">
+                <ANNOTATION_VALUE>Nitt juᵢkke šīɣ mūrr šonta∂ šīɣ šantajt; a ńuoᵢzes mūrr i šonta∂ ńuoᵢzes šantait.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10666" ANNOTATION_REF="a9856">
+                <ANNOTATION_VALUE>Ij uoj šīɣ mūrr puhte∂ ńuoᵢzes šantajt, i ńuoᵢzes mūrr puhte∂ šīɣ šantajt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10667" ANNOTATION_REF="a9857">
+                <ANNOTATION_VALUE>Juᵢkke mūrr, kū ij puᵢt šīɣ puttajt, rāᵢ∂ett i suohpjett toᵢlle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10668" ANNOTATION_REF="a9858">
+                <ANNOTATION_VALUE>Nitt sien' šantai mīlt tītboᵢtte∂ sieni̊jt.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10669" ANNOTATION_REF="a9859">
+                <ANNOTATION_VALUE>Ij juᵢkjańč, kū sārn muᵢnne: Gospo∂i, Gospo∂i! lińče monne∂ aᵢlm cārstva, a tott, kū teavt mūn' aᵢlm-aᵢǯ' tāhtmuž.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10670" ANNOTATION_REF="a9860">
+                <ANNOTATION_VALUE>Е̄ннэ leańč mi̊ᵢnne sārnjeᵢtte∂ tonn piejv: Gospo∂i, Gospo∂i! Vaj' mij tōn' nomest ovtlest ḁjgij sārnajm? Э vaj' mij tōn' nomi̊jn vuoj'xijm cūᵢrtijt? Э vaj' mij tōn' nomi̊jn е̄ннэ kūᵢstnaᵢhtem tujje∂ tujšijm?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10671" ANNOTATION_REF="a9861">
+                <ANNOTATION_VALUE>I tanna mun sijje sārnam: mun ni kuoᵢss i̊m tiettańč tieni̊jt: monne∂ iers sajja munst, tij zākonxemmes tuj'šej'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10672" ANNOTATION_REF="a9862">
+                <ANNOTATION_VALUE>I nitt pejam juᵢkja, kie kultal to-lajt' mūn' sḁɣi̊jt, i kie eall sieni̊j mīlt, ovt-nalšemen mīlves olmujn, kū tujišt portes pāᵢvt' ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10673" ANNOTATION_REF="a9863">
+                <ANNOTATION_VALUE>I vūlgij aᵢbr, i tīvtén jōɣ', i pīnkjén pīñg', i čḁᵢvven tonn port ol' i son jōrmańč ij; tonn guojk što son leaj tuj'šańč kie∂ɣ' ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10674" ANNOTATION_REF="a9864">
+                <ANNOTATION_VALUE>A juᵢkjańč, kie kull tājt mun' sḁɣi̊jt i ij tuješt nitt, leańč piimańč ovt nālla mīl'xemmes olmujn, kū tuješt īǯes port vūntas ol'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10675" ANNOTATION_REF="a9865">
+                <ANNOTATION_VALUE>I vūlgij aᵢbr, i koᵢlg'∂én jōɣ', i pīñkjén pīñg', i vi̊ᵢrrén tonn port ol'; son i jōri̊j i leaj sōn' jōrmuš šurr.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10676" ANNOTATION_REF="a9866">
+                <ANNOTATION_VALUE>I kuoᵢss Isus lūptij tājt sḁɣi̊jt, olmo div∂eᵢtten sōn' māᵢlxemuš:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10677" ANNOTATION_REF="a9867">
+                <ANNOTATION_VALUE>Tonn guojk što son uoᵢpeᵢst sieni̊jt koxt vāltlańč, a ij nitt koxt kirj-kī∂ i farisēj'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-rus(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orth(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonol(orig)T" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00137447-001"
+        LANG_ID="sjd" LANG_LABEL="Kildin Sami (sjd)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00138600-001"
+        LANG_ID="rus" LANG_LABEL="Russian (rus)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="pos">
+        <DESCRIPTION LANG_REF="und">part of speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">a</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="abbreviation" LANG_REF="und">abbr</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">pre</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="postposition" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="coordinator" LANG_REF="und">cc</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="subordinator" LANG_REF="und">cs</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">i</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid10">
+            <CVE_VALUE DESCRIPTION="numeral" LANG_REF="und">num</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">pcle</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid12">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid13">
+            <CVE_VALUE DESCRIPTION="proper noun" LANG_REF="und">prop</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid14">
+            <CVE_VALUE DESCRIPTION="punctuation" LANG_REF="und">punct</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid15">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="lg">
+        <DESCRIPTION LANG_REF="und">language</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="German" LANG_REF="und">deu</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="Norwegian" LANG_REF="und">nob</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="English" LANG_REF="und">eng</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="Russian" LANG_REF="und">rus</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="Swedish" LANG_REF="und">swe</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="Kildin Saami" LANG_REF="und">sjd</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="Ter Saami" LANG_REF="und">sjt</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid7">
+            <CVE_VALUE DESCRIPTION="Pite Saami" LANG_REF="und">sje</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid8">
+            <CVE_VALUE DESCRIPTION="Lule Saami" LANG_REF="und">smj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid9">
+            <CVE_VALUE DESCRIPTION="North Saami" LANG_REF="und">sme</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
