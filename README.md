@@ -88,6 +88,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-02Annunciation  | Jesus            | 260    | finished | acad  |
 | sjd19960000_arapovic1996a-04Birth         | Jesus            | 191    | finished | acad  |
 | sjd19960000_arapovic1996a-06Shepherds     | Jesus            | 240    | finished | acad  |
+| sjd19960000_arapovic1996a-08Adoration     | Jesus            | 251    | finished | acad  |
 | sjd19960000_arapovic1996a-10Exile         | Jesus            | 275    | finished | acad  |
 | sjd19960000_arapovic1996a-12Disciplines   | Jesus            | 253    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer   | Jesus            | 63     | finished | acad  |
