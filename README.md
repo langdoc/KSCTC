@@ -68,6 +68,7 @@ The following table provides an overview of the included data and the state of t
 | rus19920000_arapovic1992a-14Samaritan         | Jesus            |        |          | bound |
 | rus19920000_arapovic1992a-16Sermon-Beatitudes | Jesus            |        |          | bound |
 | rus19920000_arapovic1992a-19LordsPrayer       | Jesus            |        |          | bound |
+| rus19920000_arapovic1992a-20Sower             | Jesus            |        |          | bound |
 | sia18760800_bibleMATTHEW1878a-24              | Matthew 24       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-25              | Matthew 25       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-26              | Matthew 26       |        |   | free  |
@@ -103,6 +104,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-14Samaritan         | Jesus            | 289    | finished | acad  |
 | sjd19960000_arapovic1996a-16Sermon-Beatitudes | Jesus            | 259    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer       | Jesus            | 63     | finished | acad  |
+| sjd19960000_arapovic1996a-20Sower             | Jesus            | 214    | finished | acad  |
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
