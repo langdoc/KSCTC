@@ -77,7 +77,7 @@ The following table provides an overview of the included data and the state of t
 | sjd18280000_sjogren1828a-LordsPrayer          | Lord's Prayer    | 59     | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Title         | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage     | Imprint          | 19     | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-01              | Matthew 1        |        |   | free  |
+| sjd18760800_bibleMATTHEW1878a-01              | Matthew 1        | 303    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-05              | Matthew 5        | 822    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-06              | Matthew 6        | 664    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-07              | Matthew 6        | 497    | finished | free  |
@@ -173,10 +173,13 @@ Planned improvements in the data
 - finnish the corpus
 - normalize the orthography (tier "orth")
 
-
 Planned improvements at the platform level
 - Website
 - submodule
 - validation scripts
 - dynamic corpus statistics
 - metadata links to Wikidata
+
+Questions
+- what to do with letter η in Cyrillic (Genets)?
+- what is the real Russian original of the various translations?
