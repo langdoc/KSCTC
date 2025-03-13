@@ -24,6 +24,10 @@ The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) includes a 
 ```
 
 
+## License
+CC-BY, see [LICENSE](LICENSE)
+
+
 ## Data format
 The data is modelled in XLM using the corpus tool [ELAN](https://archive.mpi.nl/tla/elan]).
 
