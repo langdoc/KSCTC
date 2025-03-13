@@ -78,6 +78,8 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_bibleMATTHEW1878a-08              | Matthew 8        | 546    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-09              | Matthew 9        | 639    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-10              | Matthew 10       | 679    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-11              | Matthew 11       | 517    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-12              | Matthew 12       | 847    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-16              | Matthew 16       | 517    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-22              | Matthew 22       | 625    | finished | free  |
 | sjd18760800_genetz1879a-01                    | Matthew 1        | 328    | finished | free  | 
