@@ -80,7 +80,15 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_bibleMATTHEW1878a-10              | Matthew 10       | 679    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-11              | Matthew 11       | 517    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-12              | Matthew 12       | 847    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-13              | Matthew 13       | 1002   | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-14              | Matthew 14       | 528    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-15              | Matthew 15       | 583    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-16              | Matthew 16       | 517    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-17              | Matthew 17       | 483    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-18              | Matthew 18       | 639    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-19              | Matthew 19       | 556    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-20              | Matthew 20       | 579    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-21              | Matthew 21       | 822    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-22              | Matthew 22       | 625    | finished | free  |
 | sjd18760800_genetz1879a-01                    | Matthew 1        | 328    | finished | free  | 
 | sjd18760800_genetz1879a-05                    | Matthew 5        | 825    | finished | free  | 
