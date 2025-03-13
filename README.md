@@ -69,6 +69,7 @@ The following table provides an overview of the included data and the state of t
 | rus19920000_arapovic1992a-16Sermon-Beatitudes | Jesus            |        |          | bound |
 | rus19920000_arapovic1992a-19LordsPrayer       | Jesus            |        |          | bound |
 | rus19920000_arapovic1992a-20Sower             | Jesus            |        |          | bound |
+| sia18760800_bibleMATTHEW1878a-23              | Matthew 23       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-24              | Matthew 24       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-25              | Matthew 25       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-26              | Matthew 26       |        |   | free  |
@@ -78,10 +79,17 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_bibleMATTHEW1878a-00Title         | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage     | Imprint          | 19     | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-01              | Matthew 1        | 303    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-02              | Matthew 2        | 444    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-03              | Matthew 3        | 281    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-04              | Matthew 4        | 404    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-05              | Matthew 5        | 822    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-06              | Matthew 6        | 664    | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-07              | Matthew 6        | 497    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-07              | Matthew 7        | 497    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-08              | Matthew 8        | 546    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-09              | Matthew 9        | 639    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-10              | Matthew 10       | 679    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-16              | Matthew 16       | 517    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-22              | Matthew 22       | 625    | finished | free  |
 | sjd18760800_genetz1879a-01                    | Matthew 1        | 328    | finished | free  | 
 | sjd18760800_genetz1879a-05                    | Matthew 5        | 825    | finished | free  | 
 | sjd18760800_genetz1879a-07                    | Matthew 7        | 498    | finished | free  | 
