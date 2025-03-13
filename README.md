@@ -1,10 +1,8 @@
 # Kola Saami Christian Text Corpus (KSCTC)
-
 Current version: Alpha (not released yet)
 
 
 ## Authors and credits
-
 The originator of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). The second main author is [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/).
 
 The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) includes a more complete description. If you use the data, please cite this paper (see below a bibtex code snippet).
@@ -24,8 +22,10 @@ The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) includes a 
 ```
 
 
-## License
-CC-BY, see [LICENSE](LICENSE)
+## License, data reuse, and collaboration
+The corpus data in this repository are free and open and licensed under CC-BY, see [LICENSE](LICENSE). Other parts of the corpus – under bound licenses – are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only to project collaborators. 
+
+If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi). Collaborators must acknowledge the terms of use by signing the [Code of Conduct](CoC.md) (in the works).
 
 
 ## Data format
@@ -40,22 +40,8 @@ Tiers included are
 - "ft-rus(orig)" - if applicable: original Russian text on which the translation is based
 
 
-## Data access
-Only parts of the corpus are openly available. Other parts – under bound licenses – are found in [KSCTC-bound](https://github.com/langdoc/KSCTC-bound/), which is a private repository and visible only to project collaborators. 
-
-If you are interested in collaboration, contact [Michael Rießler](mailto:michael.riessler@uef.fi).
-
-
-### Code of conduct
-Collaborators must acknowledge the terms of use by signing the [Code of Conduct](CoC.md) (in the works).
-
-
 ## Metadata
-Currently, only basic metadata is available. 
-
-Session metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
-
-More detailed metadata is planned to be published (in CMDI format) later.
+Basic metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
 
 
 ## Simple corpus statistics
@@ -168,10 +154,10 @@ Description
 - See more metadata in the respective CMDI files (work in progress).
 
 Tokens
-- Simple token count
+- Simple word token count
 
 Status
-- Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig)); read the paper for more detail
+- Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig); read the paper for more detail).
 
 Use
 - Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
@@ -184,6 +170,7 @@ Use
 Planned improvements in the data
 - finnish the corpus
 - normalize the orthography (tier "orth")
+- More detailed metadata is planned to be published (in CMDI format) later.
 
 Planned improvements at the platform level
 - Website
