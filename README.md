@@ -68,7 +68,7 @@ The following table provides an overview of the included data and the state of t
 | sjd18280000_sjogren1828a-LordsPrayer          | Lord's Prayer    | 59     | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Title         | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage     | Imprint          | 19     | finished | free  |
-| sjd18760800_bibleMATTHEW1878a-01              | Matthew 1        | 303    | finished | free  |
+| sjd18760800_bibleMATTHEW1878a-01              | Matthew 1        | 323    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-02              | Matthew 2        | 444    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-03              | Matthew 3        | 281    | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-04              | Matthew 4        | 404    | finished | free  |
@@ -123,8 +123,8 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-00Imprint       | Imprint          | 56     | finished | free  | 
 | sjd20220300_bibleMATTHEW2022a-00Title         | Imprint          | 10     | finished | free  | 
 | sjd20220300_bibleMATTHEW2022a-01              | Matthew 1        | 315    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-02              | Matthew 2        |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-03              | Matthew 3        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-02              | Matthew 2        | 392    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-03              | Matthew 3        | 269    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        |        |   | bound |
@@ -149,8 +149,8 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-24              | Matthew 24       |     |  | bound |
 | sjd20220300_bibleMATTHEW2022a-25              | Matthew 25       |     |  | bound |
 | sjd20220300_bibleMATTHEW2022a-26              | Matthew 26       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-27              | Matthew 27       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-28              | Matthew 28       |     |  | bound |
+| sjd20220300_bibleMATTHEW2022a-27              | Matthew 27       | 1225   | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-28              | Matthew 28       | 306    | finished | bound |
 | sjd20220300_scheller2022a                     | Preface          | 559    | finished | bound |
 
 Session
