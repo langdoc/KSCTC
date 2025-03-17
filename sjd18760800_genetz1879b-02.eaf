@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified"
+    DATE="2025-03-17T09:52:35+02:00" FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:869d5a5b-1021-4d80-99ab-e978fb04a530</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13632</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="7000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="9000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="12000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="12000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="18000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="18000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="19000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="21000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="23000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="24000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="refT" PARTICIPANT="PAP1821m" TIER_ID="ref@PAP1821m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 01</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 02</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 03</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 04</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 05</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 06</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 07</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a196"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a206"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a216"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a246"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>sjd18760800_bibleMATTHEW1878a-02 24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ref(orig)T" PARENT_REF="ref@PAP1821m"
+        PARTICIPANT="PAP1821m" TIER_ID="ref(orig)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9441" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9442" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9443" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9444" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>3</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9445" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>4</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9446" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>5</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9447" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>6</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9448" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>7</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9449" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>8</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9450" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>9</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9451" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>10</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9452" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>11</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9453" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>12</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9454" ANNOTATION_REF="a196">
+                <ANNOTATION_VALUE>13</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9455" ANNOTATION_REF="a201">
+                <ANNOTATION_VALUE>14</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9456" ANNOTATION_REF="a206">
+                <ANNOTATION_VALUE>15</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9457" ANNOTATION_REF="a211">
+                <ANNOTATION_VALUE>16</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9458" ANNOTATION_REF="a216">
+                <ANNOTATION_VALUE>17</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9459" ANNOTATION_REF="a221">
+                <ANNOTATION_VALUE>18</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9460" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>19</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9461" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>20</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9462" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>21</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9463" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>22</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9464" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>23</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="sjd" LINGUISTIC_TYPE_REF="orth(orig)T"
+        PARENT_REF="ref@PAP1821m" PARTICIPANT="PAP1821m" TIER_ID="orth(orig_genetz1879b)@PAP1821m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13609" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>Nuᵢmp ḁlkχɵš.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13610" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>Kuɵᵢss Isus šɵndij Wifliemest, Iud’ējest cḁr’ Irod pāᵢle, pūitten noajt-olmo Ierusalimma nuᵢrtej goᵢrren, i sārneβ:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13611" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>Koᵢst lī Iud’ēj cḁrr, kū lī šɵntmańč? tɵnn mīlt što mij ujnim sōn’ tāᵢst’ nuᵢrtej aᵢln; i pūẟim soᵢnne koᵢmmerdeẟ.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13612" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>Kuɵᵢss cḁrr Irod tānn kuli̊j, son sūrken i pūkk Ierusalim sōni̊jn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13613" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>I son kōpčij pūki̊jt šuᵢremus pḁpi̊jt i kirj-kīẟijt mi̊rest, i kɵǯij sienest: kɵᵢst bi̊tt Xristoᵢsse šɵnteẟ? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13614" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>I sij soᵢnne cīlhkin: Wifliemest, Iudējest; tɵnn mīlt što nitt leaj kirjχańč pajjel prōrok:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13615" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>I ton, Wifliem, Iudēj iemne, i̊k lea ni-mɵjn Iud'ēj ūjvin uᵢcmus; tɵnn guɵjk što tonst poatt šuᵢremus, kū pińń mūn’ mɵr’ Izrail.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13616" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>Tanna Irod peajhaᵢst kočej noajt-olmujt i sienest kɵǯij, što konn pāᵢl’ tāᵢst iẟij.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13617" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>I vūlkeht sienijt Wifliemma i cīlkij: mɵnneẟ, kɵᵢččeẟ puᵢremuᵢhte pāᵢrn bajas; kuɵᵢss tij kḁvnbi̊tte, tanna muᵢnne sḁɣ’ tuj’šikkeẟ, što i mun mɵnam, suᵢnne koᵢmmerẟam.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13618" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>Sij goᵢtt kuᵢllin cḁrest pūkk, dė vūᵢlkin; i tāᵢl tḁ̄ᵢst, konn sij ujnin nuᵢrtej aᵢln, mɵnij sieni̊j ɵvdest tɵnn rajja, kuɵᵢss pūẟij i jeskij tɵnn saj’ ɵl’, koᵢst leaj pāᵢrn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13619" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>Kuɵᵢss sij ujnin tāᵢst’, i sij rḁmguᵢtten čevta šūrr rāmaj guɵjm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13620" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>I sij sūññun pɵᵢrhte, ujnin pāᵢrn īnnijnis Mḁrjijn, i sij koᵢmmerẟin suᵢnne juɵlka; i ōccin ealajẟis i puᵢhtin suᵢnne lḁjχijt: koᵢll i lāẟan i smirna.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13621" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>I kuɵᵢss sijje Jimmel pākaj nakrest, ij mɵnneẟ Irod gorra mḁst, sij vuᵢlkin ieres vāra īǯes korra.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13622" ANNOTATION_REF="a196">
+                <ANNOTATION_VALUE>Nu kuɵᵢss sij vuᵢlkin: tanna i Jimmeᵢl ieñkal i̊tt nakrest Oaska, i sārn: kocc’, vāᵢlt pāᵢrn i sōn’ iēnn, i poačk Jegīpet iemnja, i ieᵢl’ taᵢmpet (sa) tɵnn rajja, što kuɵᵢss mun toᵢnne i̊m cieᵢlk; tɵnn guɵjk što tāht Irod ōcceẟ pāᵢrn, majkem vāras.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13623" ANNOTATION_REF="a201">
+                <ANNOTATION_VALUE>Son koccaj, vḁᵢltij pāᵢrn i sōn’ ienn i̊kka, i vūlgij Jegīpet iemnja.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13624" ANNOTATION_REF="a206">
+                <ANNOTATION_VALUE>I son taᵢmpe leaj tɵnn rajja, kuɵᵢss Irod jḁmij; što sɵntahč sārnmańč Jimlijn pajjel prōrok, kū sārn: Jegīpet iemnest mun kohčum alkan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13625" ANNOTATION_REF="a211">
+                <ANNOTATION_VALUE>Kuɵᵢss Irod tanna ujni īǯes luɵńmańč noajt-olmuj guɵjm, son čevta seanẟij i vūlkeht pūki̊jt pārnajt koᵢnteẟ Wifliemest i pūkk tɵnn iemnest kūχteẟ ėɣest i tɵᵢst nūrmijt, tɵnn pāᵢl’ mĭlt, konn son kuli̊j noajt-olmujn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13626" ANNOTATION_REF="a216">
+                <ANNOTATION_VALUE>Tanna šɵndij sārnmańč pajjel prōrok Jeremej, kū sārn:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13627" ANNOTATION_REF="a221">
+                <ANNOTATION_VALUE>Jīnn kullaj Rāmest, lujhkem i reākmuš i čevta kukχɵllem; Rāχil luɵjhk īǯes pārnajt, ij tāt jɵskeẟ lujhkmen tɵnn guɵjk što sij ieβ’ leaχ. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13628" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>Mañña Irod sɵᵢrmest, kīč, Jimmel ieñkal nakrest iẟij Oaska Jegīpet iemnjest,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13629" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>I sārn: kocc’, vāᵢlt pāᵢrn īnnijnis, mɵ̄n’ Izrail iemnja; tɵnn guɵjk što jāmmi̊n pāᵢrn jīñk ōccej.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13630" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>Son koccaj, vḁᵢltij pāᵢrn i sōn’ ienn, i pūẟij Izrail iemnja.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13631" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>Kuɵᵢss son kuli̊j, što Arχelaj Iud'ējest lī cḁrren Irod sajest, aᵢǯes ɵvtel, son pɵli̊j toɣ’ mɵnnem; te pākaj suᵢnne nakrest Jimmel (mɵnneẟ), i son vūᵢlkij Galilej rḁjij si̊z.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13632" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>I pūẟij toɣ’ i iel’χɵẟij laᵢnnest nɵmmeẟ mīlt Nāzaretest, što šɵntahč pajjel prōroki̊j sārnmuššeẟ mīlt, što son leańč kohčjeẟ Nāzaretlińčen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-rus(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orth(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref(orig)T" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonol-KSDPT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00137447-001"
+        LANG_ID="sjd" LANG_LABEL="Kildin Sami (sjd)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
