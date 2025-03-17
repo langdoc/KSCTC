@@ -94,6 +94,7 @@ The following table provides an overview of the included data and the state of t
 | sjd18760800_genetz1879a-05                    | Matthew 5        | 825    | finished | free  | 
 | sjd18760800_genetz1879a-07                    | Matthew 7        | 498    | finished | free  | 
 | sjd18760800_genetz1879b-01                    | Matthew 1        | 328    | finished | free  | 
+| sjd18760800_genetz1879b-02                    | Matthew 2        | 450    | finished | free  | 
 | sjd18760800_genetz1879b-05                    | Matthew 5        | 825    | finished | free  | 
 | sjd18760800_genetz1879b-07                    | Matthew 7        | 498    | finished | free  | 
 | sjd18760800_genetz1891a-kilb05                | Matthew 5        | 824    | finished | free  |
@@ -125,7 +126,7 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-01              | Matthew 1        | 315    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-02              | Matthew 2        | 392    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-03              | Matthew 3        | 269    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        | 385    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-07              | Matthew 7        |        |   | bound |
