@@ -114,6 +114,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-16Sermon-Beatitudes | Jesus            | 259    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer       | Jesus            | 63     | finished | acad  |
 | sjd19960000_arapovic1996a-20Sower             | Jesus            | 214    | finished | acad  |
+| sjd19960000_arapovic1996a-22Storm             | Jesus            | 132    | finished | acad  |
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
@@ -128,7 +129,7 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-03              | Matthew 3        | 269    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        | 385    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        | 771    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        | 619    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-07              | Matthew 7        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-08              | Matthew 8        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-09              | Matthew 9        |        |   | bound |
