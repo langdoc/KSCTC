@@ -127,7 +127,7 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-02              | Matthew 2        | 392    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-03              | Matthew 3        | 269    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        | 385    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        | 771    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-07              | Matthew 7        |        |   | bound |
 | sjd20220300_bibleMATTHEW2022a-08              | Matthew 8        |        |   | bound |
