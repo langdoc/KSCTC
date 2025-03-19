@@ -118,6 +118,8 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-24Raising           | Jesus            | 282    | finished | acad  |
 | sjd19960000_arapovic1996a-24Raising-Fn        | Jesus            | 10     | finished | acad  |
 | sjd19960000_arapovic1996a-26Feeding           | Jesus            | 196    | finished | acad  |
+| sjd19960000_arapovic1996a-28GoodSamaritan     | Jesus            | 227    | finished | acad  |
+| sjd19960000_arapovic1996a-28GoodSamaritan-Fn  | Jesus            | 6      | finished | acad  |
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
