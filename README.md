@@ -34,14 +34,13 @@ The data is modelled in XLM using the corpus tool [ELAN](https://archive.mpi.nl/
 Tiers included are
 - "ref" - project-internal ID for each single chunk
 - "ref(orig)" - if applicable: verse number (Gospel of Matthew and Lord's Prayer) as location for parallelization
-- "orth(orig)" - original text in original script
+- "orth(orig_<SOURCE>)" - original text in original script (<SOURCE> refers to an ID in the [Bibliography](bibliography.bib))
 - "orth" - normalized orthography
-- "ft-rus" - if applicable: free Russian translation
-- "ft-rus(orig)" - if applicable: original Russian text on which the translation is based
+- "ft-rus(orig_<SOURCE>)" - if applicable: original Russian text on which the translation is based (<SOURCE> refers to an ID in the [Bibliography](bibliography.bib))
 
 
 ## Metadata
-Basic metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Anonymized personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
+Basic metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
 
 
 ## Simple corpus statistics
@@ -49,22 +48,18 @@ The following table provides an overview of the included data and the state of t
 
 | Session                                       | Description      | Tokens | Status   | Use   |
 | --------------------------------------------- | ---------------- | ------ | -------- | ----- |
-| rus19920000_arapovic1992a-02Annunciation      | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-04Birth             | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-06Shepherds         | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-08Adoration         | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-10Exile             | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-12Disciplines       | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-14Samaritan         | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-16Sermon-Beatitudes | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-19LordsPrayer       | Jesus            |        |          | bound |
-| rus19920000_arapovic1992a-20Sower             | Jesus            |        |          | bound |
 | sia18760800_bibleMATTHEW1878a-23              | Matthew 23       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-24              | Matthew 24       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-25              | Matthew 25       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-26              | Matthew 26       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-27              | Matthew 27       |        |   | free  |
 | sia18760800_bibleMATTHEW1878a-28              | Matthew 28       |        |   | free  |
+| sia18760800_genetz1879a-23                    | Matthew 23       |        |   | free  |
+| sia18760800_genetz1879a-24                    | Matthew 24       |        |   | free  |
+| sia18760800_genetz1879a-25                    | Matthew 25       |        |   | free  |
+| sia18760800_genetz1879a-26                    | Matthew 26       |        |   | free  |
+| sia18760800_genetz1879a-27                    | Matthew 27       |        |   | free  |
+| sia18760800_genetz1879a-28                    | Matthew 28       |        |   | free  |
 | sjd18280000_sjogren1828a-LordsPrayer          | Lord's Prayer    | 59     | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Title         | Imprint          | 2      | finished | free  |
 | sjd18760800_bibleMATTHEW1878a-00Titlepage     | Imprint          | 19     | finished | free  |
@@ -120,6 +115,16 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-26Feeding           | Jesus            | 196    | finished | acad  |
 | sjd19960000_arapovic1996a-28GoodSamaritan     | Jesus            | 227    | finished | acad  |
 | sjd19960000_arapovic1996a-28GoodSamaritan-Fn  | Jesus            | 6      | finished | acad  |
+| sjd19960000_arapovic1996a-30GoodShepherd      | Jesus            | 287    | finished | acad  | 
+| sjd19960000_arapovic1996a-32LostSheep         | Jesus            | 144    | finished | acad  | 
+| sjd19960000_arapovic1996a-34Prodigal          | Jesus            | 150    | finished | acad  | 
+| sjd19960000_arapovic1996a-36Return            | Jesus            | 234    | finished | acad  | 
+| sjd19960000_arapovic1996a-38Blesses           | Jesus            | 122    | finished | acad  | 
+| sjd19960000_arapovic1996a-40Blind             | Jesus            | 165    | finished | acad  | 
+| sjd19960000_arapovic1996a-42Zacchaeus         | Jesus            | 197    | finished | acad  | 
+| sjd19960000_arapovic1996a-44Commandment       | Jesus            | 114    | finished | acad  | 
+| sjd19960000_arapovic1996a-46Supper            | Jesus            | 164    | finished | acad  | 
+| sjd19960000_arapovic1996a-48Gethsemane        | Jesus            | 245    | finished | acad  | 
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
@@ -165,7 +170,7 @@ Session
 	- The language is indicated (as ISO) in the first three letters of the file name.
  	- The second section of the file name indicates the (known or estimated) date of origin, at least the year. 
  	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
-  	- The fourth section (if applicable, after hyphen) indicates sub-sets. 	 
+  	- The fourth section (if applicable, after hyphen) indicates sub-sets (e.g. for footnotes or Matthew 16:22-28).
 
 Description
 - See more metadata in the respective CMDI files (work in progress).
@@ -174,29 +179,25 @@ Tokens
 - Simple word token count
 
 Status
-- Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), word(orig); read the paper for more detail).
+- Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), [ft-rus(orig)]; read the paper for more detail).
 
 Use
 - Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
-- Data marked as "acad" are under copyright but can be used under an academic license via the Language Bank of Finland.
-- Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer), their earlier distribution, or other reasons allows their use as open corpus data in research, in our opinion.
+- Data marked as "acad" are under copyright and not made freely available via the present repository . But they can be used under an academic license, which is handled by the [Language Bank of Finland](https://www.kielipankki.fi/language-bank/). 
+- Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer), their earlier distribution, or other reasons allow their use as open corpus data in research, in our opinion. 
 - Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (book imprints, title pages, etc.).
 
 
 ## TODO
 Planned improvements in the data
 - finnish the corpus
-- normalize the orthography (tier "orth")
-- More detailed metadata is planned to be published (in CMDI format) later.
 
 Planned improvements at the platform level
 - Website
-- submodule
+- Pipeline: sjd-fair --> KSCTC
 - validation scripts
 - dynamic corpus statistics
 - metadata links to Wikidata
 
 Questions
-- what to do with letter η in Cyrillic (Genets)?
-- what is the real Russian original of the various translations?
-- Footnotes
+- what to do with letter η in Cyrillic (Genetz), using Greek or Latin?
