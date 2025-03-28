@@ -125,6 +125,9 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-44Commandment       | Jesus            | 114    | finished | acad  | 
 | sjd19960000_arapovic1996a-46Supper            | Jesus            | 164    | finished | acad  | 
 | sjd19960000_arapovic1996a-48Gethsemane        | Jesus            | 245    | finished | acad  | 
+| sjd19960000_arapovic1996a-50Arrest            | Jesus            | 208    | finished | acad  | 
+| sjd19960000_arapovic1996a-52Pilatus           | Jesus            | 310    | finished | acad  | 
+| sjd19960000_arapovic1996a-54Crucifixion       | Jesus            | 351    | finished | acad  | 
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
