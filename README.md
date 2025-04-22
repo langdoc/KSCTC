@@ -149,15 +149,15 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-04              | Matthew 4        | 385    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-05              | Matthew 5        | 771    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-06              | Matthew 6        | 619    | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-07              | Matthew 7        |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-08              | Matthew 8        |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-09              | Matthew 9        |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-10              | Matthew 10       |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-11              | Matthew 11       |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-12              | Matthew 12       |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-13              | Matthew 13       |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-14              | Matthew 14       |        |   | bound |
-| sjd20220300_bibleMATTHEW2022a-15              | Matthew 15       |        |   | bound |
+| sjd20220300_bibleMATTHEW2022a-07              | Matthew 7        | 466    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-08              | Matthew 8        | 521    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-09              | Matthew 9        | 612    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-10              | Matthew 10       | 643    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-11              | Matthew 11       | 465    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-12              | Matthew 12       | 795    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-13              | Matthew 13       | 938    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-14              | Matthew 14       | 486    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-15              | Matthew 15       | 534    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16              | Matthew 16       | 464    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16L2            | Matthew 16:22-28 | 127    | finished | fair  |
 | sjd20220300_bibleMATTHEW2022a-17              | Matthew 17       |     |  | bound |
