@@ -5,7 +5,7 @@ Current version: Alpha (not released yet)
 ## Authors and credits
 The originator of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). The second main author is [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/).
 
-The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) includes a more complete description. If you use the data, please cite this paper (see below a bibtex code snippet).
+The paper [Rießler 2024](https://aclanthology.org/2024.iwclul-1.18) includes a more complete description. If you use the data, please cite this paper (see the bibtex code snippet below).
 
 ```
 
@@ -34,7 +34,7 @@ The data is modelled in XLM using the corpus tool [ELAN](https://archive.mpi.nl/
 Tiers included are
 - "ref" - project-internal ID for each single chunk
 - "ref(orig)" - if applicable: verse number (Gospel of Matthew and Lord's Prayer) as location for parallelization
-- "orth(orig_<SOURCE>)" - original text in original script (<SOURCE> refers to an ID in the [Bibliography](bibliography.bib))
+- "orth(orig_<SOURCE>)" - original text in original script (<SOURCE> refers to an ID in the [Bibliography](bibliography.bib)); there can be more than one original texts included, e.g. in case of reprints of the same texts or different transcripts/transliterations of the same texts
 - "orth" - normalized orthography
 - "ft-rus(orig_<SOURCE>)" - if applicable: original Russian text on which the translation is based (<SOURCE> refers to an ID in the [Bibliography](bibliography.bib))
 
@@ -43,8 +43,10 @@ Tiers included are
 Basic metadata can be extracted from the overview below. Bibliographic metadata about the text sources is found in [Bibliography](bibliography.bib). Personal metadata about the text originators is included in the tier names in each individual session (e.g. "PAP1821m" is a male person born 1821, "AAA1932f" is a female person born 1932).
 
 
-## Simple corpus statistics
-The following table provides an overview of the included data and the state of their completion.
+## Corpus statistics
+Focus of our work so far has been on the Kildin Saami (sjd) subset. Akkala Saami (sia) and Skolt Saami (sms) data are still only rudamentally included.
+
+The following table provides an overview of the included data and the state of their completion. Below are more explanations of this table.
 
 | Session                                       | Description      | Tokens | Status   | Use   |
 | --------------------------------------------- | ---------------- | ------ | -------- | ----- |
@@ -177,9 +179,9 @@ The following table provides an overview of the included data and the state of t
 Session
 - Points to the file name
 	- The language is indicated (as ISO) in the first three letters of the file name.
- 	- The second section of the file name indicates the (known or estimated) date of origin, at least the year. 
- 	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
-  	- The fourth section (if applicable, after hyphen) indicates sub-sets (e.g. for footnotes or Matthew 16:22-28).
+	- The second section of the file name indicates the (known or estimated) date of origin, at least the year. 
+	- The third section (after underscore) includes a pointer to the [Bibliography](bibliography.bib), where the original text sources are listed.
+	- The fourth section (if applicable, after hyphen) indicates sub-sets (e.g. for footnotes or Matthew 16:22-28).
 
 Description
 - See more metadata in the respective CMDI files (work in progress).
@@ -194,7 +196,7 @@ Use
 - Data marked as "bound" must not be re-published or shared in any way outside this project because copyright applies. These data can, however, be analysed and processed by project collaborators.
 - Data marked as "acad" are under copyright and not made freely available via the present repository . But they can be used under an academic license, which is handled by the [Language Bank of Finland](https://www.kielipankki.fi/language-bank/). 
 - Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer), their earlier distribution, or other reasons allow their use as open corpus data in research, in our opinion. 
-- Data marked as "free" are either in the Open Domain (old publications) or do not meet the threshold of originality (book imprints, title pages, etc.).
+- Data marked as "free" are either in the Open Domain or do not meet the threshold of originality (book imprints, title pages, etc.).
 
 
 ## TODO
@@ -208,5 +210,5 @@ Planned improvements at the platform level
 - dynamic corpus statistics
 - metadata links to Wikidata
 
-Questions
+## Open questions
 - what to do with letter η in Cyrillic (Genetz), using Greek or Latin?
