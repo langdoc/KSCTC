@@ -107,6 +107,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-12Disciplines       | Jesus            | 253    | finished | acad  |
 | sjd19960000_arapovic1996a-14Samaritan         | Jesus            | 289    | finished | acad  |
 | sjd19960000_arapovic1996a-16Sermon-Beatitudes | Jesus            | 259    | finished | acad  |
+| sjd19960000_arapovic1996a-18Sermon-Love       | Jesus            | 407    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer       | Jesus            | 63     | finished | acad  |
 | sjd19960000_arapovic1996a-20Sower             | Jesus            | 214    | finished | acad  |
 | sjd19960000_arapovic1996a-22Storm             | Jesus            | 132    | finished | acad  |
@@ -130,6 +131,9 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-54Crucifixion       | Jesus            | 351    | finished | acad  | 
 | sjd19960000_arapovic1996a-56Burial            | Jesus            | 266    | finished | acad  |
 | sjd19960000_arapovic1996a-56Burial-Fn         | Jesus            | 14     | finished | acad  | 
+| sjd19960000_arapovic1996a-58Risen             | Jesus            | 218    | finished | acad  | 
+| sjd19960000_arapovic1996a-60Ascent            | Jesus            | 195    | finished | acad  | 
+| sjd19960000_arapovic1996a-62Way               | Jesus            | 344    | finished | acad  | 
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
