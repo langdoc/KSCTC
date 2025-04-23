@@ -44,7 +44,7 @@ Basic metadata can be extracted from the overview below. Bibliographic metadata 
 
 
 ## Corpus statistics
-Focus of our work so far has been on the Kildin Saami (sjd) subset. Akkala Saami (sia) and Skolt Saami (sms) data are still only rudamentally included.
+Focus of our work so far has been on the Kildin Saami (sjd) subset in contemporary orthography. Genetz's original texts are not fully complete yet. Akkala Saami (sia) and Skolt Saami (sms) data are not included yet.
 
 The following table provides an overview of the included data and the state of their completion. Below are more explanations of this table.
 
@@ -162,18 +162,18 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-15              | Matthew 15       | 534    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16              | Matthew 16       | 464    | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-16L2            | Matthew 16:22-28 | 127    | finished | fair  |
-| sjd20220300_bibleMATTHEW2022a-17              | Matthew 17       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-18              | Matthew 18       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-19              | Matthew 19       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-20              | Matthew 20       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-21              | Matthew 21       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-22              | Matthew 22       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-23              | Matthew 23       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-24              | Matthew 24       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-25              | Matthew 25       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-26              | Matthew 26       |     |  | bound |
-| sjd20220300_bibleMATTHEW2022a-27              | Matthew 27       | 1225   | finished | bound |
-| sjd20220300_bibleMATTHEW2022a-28              | Matthew 28       | 306    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-17              | Matthew 17       | 438    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-18              | Matthew 18       | 622    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-19              | Matthew 19       | 536    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-20              | Matthew 20       | 536    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-21              | Matthew 21       | 779    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-22              | Matthew 22       | 594    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-23              | Matthew 23       | 643    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-24              | Matthew 24       | 736    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-25              | Matthew 25       | 700    | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-26              | Matthew 26       | 1106   | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-27              | Matthew 27       | 1228   | finished | bound |
+| sjd20220300_bibleMATTHEW2022a-28              | Matthew 28       | 309    | finished | bound |
 | sjd20220300_scheller2022a                     | Preface          | 559    | finished | bound |
 
 Session
@@ -187,7 +187,7 @@ Description
 - See more metadata in the respective CMDI files (work in progress).
 
 Tokens
-- Simple word token count
+- Word token count
 
 Status
 - Data marked as "finished" includes data in the minimal tier set (ref, [ref(orig)], orth(orig), [ft-rus(orig)]; read the paper for more detail).
@@ -201,7 +201,9 @@ Use
 
 ## TODO
 Planned improvements in the data
-- finnish the corpus
+- finnish the Kildin Saami data
+- check the parallel data
+- last round of proofreading
 
 Planned improvements at the platform level
 - Website
