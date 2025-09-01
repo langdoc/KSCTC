@@ -1,6 +1,8 @@
 # Kola Saami Christian Text Corpus (KSCTC)
 Current version: Alpha (not released yet)
 
+This is a repository including written data collected and/or annotated by Kola Saami Documentation Project (KSDP).
+
 
 ## Authors and credits
 The originator of the dataset and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/). The second main author is [Ilia Egorov](https://www.finnougristik.uni-muenchen.de/personen/wiss_ma/ilia-egorov/).
@@ -198,12 +200,15 @@ Use
 - Data marked as "fair" are technically also under copyright. But the nature of these texts (especially Lord's Prayer), their earlier distribution, or other reasons allow their use as open corpus data in research, in our opinion. 
 - Data marked as "free" are either in the Open Domain or do not meet the threshold of originality (book imprints, title pages, etc.).
 
+## ISSUES
+- fix encoding issues, e.g. ӯ (to ӯ) and similar
+- fix OCR issues, e.g. ending -ень (to -енҍ)
 
 ## TODO
 Planned improvements in the data
 - finnish the Kildin Saami data
-- check the parallel data
-- last round of proofreading
+- finnish the parallel data
+- one more round of proofreading?
 
 Planned improvements at the platform level
 - Website
