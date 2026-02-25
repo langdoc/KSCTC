@@ -113,6 +113,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-16Sermon-Beatitudes | Jesus            | 259    | finished | acad  |
 | sjd19960000_arapovic1996a-18Sermon-Love       | Jesus            | 407    | finished | acad  |
 | sjd19960000_arapovic1996a-19LordsPrayer       | Jesus            | 63     | finished | acad  |
+| sjd19960000_balakinaEtAl2019a-LordsPrayer     | Lord's Prayer    | 63     |  | acad  |
 | sjd19960000_arapovic1996a-20Sower             | Jesus            | 214    | finished | acad  |
 | sjd19960000_arapovic1996a-22Storm             | Jesus            | 132    | finished | acad  |
 | sjd19960000_arapovic1996a-24Raising           | Jesus            | 282    | finished | acad  |
@@ -140,6 +141,7 @@ The following table provides an overview of the included data and the state of t
 | sjd19960000_arapovic1996a-62Way               | Jesus            | 344    | finished | acad  | 
 | sjd19960000_bibleLORDMATTHEW1996a             | Lord's Prayer    | 63     | finished | fair  | 
 | sjd20050300_saam2005-03Prayer                 | Prayer           | 70     | finished | fair  |
+| sjd20020900_saam2002-03Prayer                 | Prayer           | 69     | finished | fair  |
 | sjd20080000_ermolaeva2010a-00Title            | Imprint          | 5      | finished | free  |
 | sjd20080000_ermolaeva2010a-01                 | Matthew 1        | 322    | finished | fair  | 
 | sjd20141008_bibleLORDMATTH2022b               | Lord's Prayer    | 58     | finished | fair  |
@@ -177,6 +179,10 @@ The following table provides an overview of the included data and the state of t
 | sjd20220300_bibleMATTHEW2022a-27              | Matthew 27       | 1228   | finished | bound |
 | sjd20220300_bibleMATTHEW2022a-28              | Matthew 28       | 309    | finished | bound |
 | sjd20220300_scheller2022a                     | Preface          | 559    | finished | bound |
+| sms18940000_bibleMATTHEW1894a-02              | Matthew 2        | 545    |  | free |
+| sms18940000_bibleMATTHEW1894a-00Title         | Imprint          | 3     | finished | free  |
+| sms18940000_bibleMATTHEW1894a-00Imprint       | Imprint          |       |  | free  |  
+| sms18940000_bibleMATTHEW1894a-01              | Matthew 1        |     |  | free |
 
 Session
 - Points to the file name
